@@ -24,9 +24,11 @@ Give examples of kinds of static maps (eg heatmap) for data viz and what tools (
 
 ### Techniques
 
-Making a map to illustrate a spatial idea
-Geocoding
-Georeferencing
+Making a map to illustrate a spatial idea.
+
+Geocoding.
+
+Georeferencing.
 
 
 
