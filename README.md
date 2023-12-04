@@ -22,6 +22,13 @@ Is the spatial story auxiliary to the rest of the project? Integrated? Is the ou
 
 Give examples of kinds of static maps (eg heatmap) for data viz and what tools (eg qgis) can make that happen. 
 
+### Techniques
+
+Making a map to illustrate a spatial idea
+Geocoding
+Georeferencing
+
+
 
 
 
