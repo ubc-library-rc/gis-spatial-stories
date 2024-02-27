@@ -30,6 +30,10 @@ Geocoding.
 
 Georeferencing.
 
+### Inspiration/Things to Look at
+
+[Maps for Academic Journals workshop from Stanford] (https://sites.google.com/stanford.edu/gis-cartography/workshops/maps-for-academic-journals?authuser=0)
+
 
 
 
