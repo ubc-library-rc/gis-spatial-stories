@@ -3,26 +3,19 @@ layout: default
 title: Introduction
 nav_order: 1
 ---
-
 #### this workshop is in development and not yet complete.
 {: .warn}
 
-## Guiding Questions and Workshop Goal 
-How do I find spatial themes in my data? What story do I want to tell? Which tools and mediums best fit my desired outcome, current skillset, and timeframe?
-
+# Spatial Stories
     
-Design a workshop for developing the skills to tell spatial stories with data. This workshop is not about teaching one single software or technical workflow but rather learning to ask strategic questions so as to determine what stories to tell and how to go about doing it. This workshop could potentially be carried out over two sessions. In the first session, we would focus on methodology and (decision trees) and modality (giving resources/examples). In the second session, we could invite participants to bring their own dataset and work together (or be led through an exemplar) to put into practice skills learned in session one. (Bringing a dataset would not be a requirement for attendance, though participation in session 1 would be prerequisite.) This workshop is like a wayfinding tutorial for navigating what questions to ask and what tools to use to tell the spatial stories of data. This workshop could be initially held as a two day intensive during GIS Week (November 2024), then held the following semester as a series. 
-
-Audience: Digital Humanties people, Geographers, and anyone who wants to make a reference map for their article or have spatial data they want to analyze. Etc. 
+How do I tell spatial stories with my data? What tools and mediums best suit my audience, skillset, resources, and timeframe? This workshop will guide you through answering these questions. Rather than focusing on a single software or technical workflow, participants will be introduced to a variety of methods and platforms while learning to evaluate each for its applicability/suitibility to the task/dataset/story at hand. Think of this workshop as a wayfinding tutorial for navigating what questions to ask yourself at the beginning of a project comprising spatial data. 
 
 
+This workshop will initially be facilitated across two afternoons of GIS week, Day/Time/Location and Day/Time/Location. The first day wil focus on ~methodology and (decision trees) and modality (giving resources/examples). The second day we will go through exemplar project to put into practice skills learned in session one. Additionally, participants are invited to bring their own projects/datasets so as to work together applying what learned. 
 
-## Learning objectives
+Attendance in session 1 is prerequisite for attendance in session 2. (any other prerequisites?)
 
-At the end of this workshop, you will be able to:
-1.
-2.
-3.
+Not sure if this workshop is for you? Audience: Digital Humanties people, Geographers, and anyone who wants to make a reference map for their article or have spatial data they want to analyze. Etc. 
 
 
 
