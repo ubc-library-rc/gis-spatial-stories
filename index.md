@@ -23,6 +23,8 @@ This workshop will be launched across two afternoons of GIS week 2024: **Wednesd
 1. Attendance in session 1 is prerequisite for attendance in session 2.  
 
 2. If you are attending this workshop with a project of your own in mind, please download and fill out, to the best of your ability, the below worksheet. This is for your own benefit, and will not be collected or assessed by facilitators. 
+[Microsoft .docx version](./project-design-worksheet.docx) | 
+[Text file version](./project-design-worksheet.rtf)
 
      [Project Design Worksheet](content/project-design-worksheet.docx){: .btn .btn-blue }
 

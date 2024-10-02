@@ -11,7 +11,7 @@ nav_order: 2
 The purpose of this workshop is to guide you through exploring the spatial aspect of your data so as to tell a spatial story. Depending on your data and overarching project, you will begin with a varying degree of certainty around what story you want to tell and how you will go about composing it. Therefore, we will begin by asking some questions to articulate the objectives, constraints, and resources you are working with. This, in turn, will help you decide on an output format and the best tools to make it happen. 
 
 As you reflect on the following questions, it can be helpful to write down your answers to refer to later. If that sounds useful for you, a Project Design Worksheet may be downloaded here:
-[Microsoft .docx version](./project-design-worksheet.docx) |  [Text file version](./project-design-worksheet.txt)
+[Microsoft .docx version](./project-design-worksheet.docx) |  [Text file version](./project-design-worksheet.rtf)
 <!--text file download doesnt work for some reason-->
 <!-- It can be helpful to take a moment and reflect on the following questions. You are welcome to download the Project Design Worksheet to fill out here: [Microsoft .docx version](./project-design-worksheet.docx)   [Text file version](./project-design-worksheet.txt) -->
 <br>
@@ -34,10 +34,10 @@ The first question to ask yourself is: *What are my overarching project objectiv
 
 
 
-## 2. Evaluating Constraints 
+## 2. Identifying Constraints 
 Constraints, such as those around time and resources, limit what you can do. However, by identifying your constraints before beginning a project you actually enable yourself to explore within reason, taking on only as much as you can handle. Below are some questions to get you thinking about what constraints you may have. Feel welcome to jot down those specific to your project in your worksheet. 
 
-  - What is your timeframe/timeline? Are there benchmarks for progress, ie, when youd like to get various stages done by? To whom are you accountable?
+  - What is your timeframe/timeline? Are there benchmarks for progress, ie, when you'd like to get various stages done by? To whom are you accountable?
 
   - Are you working alone or within a team? If working with others, it can be helpful to identify who is responsible for what before you begin. 
 
@@ -77,8 +77,8 @@ After you have a sense of your objectives, constraints, and intended output form
 
 - What tools/methods/platforms are relevant? This might be a question to circle back to after working through the next page. 
 
-- Finally, it is useful to make a list of resources that can support you along your journey. This could be tutorials, colleagues, supervisors, or consultants. UBC Library Research Commons offers 1:1 and group consultations for GIS related questions, as well as questions regarding Data Analysis, Digital Scholarship, Citation Management: [Book a consult here](https://libcal.library.ubc.ca/appointments/research_commons). There are also numerous workshops from all of these clusters you can work through asynchronously: [see workshop archive here](https://ubc-library-rc.github.io/). Keep in mind consultations offered through the Research Commons are aimed at assisting you as you work through your project rather than creating a methodology for you. 
 
 ----
 #### Resources for Project Design
 {: .no_toc}
+Finally, it is useful to make a list of resources that can support you along your journey. This could be tutorials, colleagues, supervisors, or consultants. UBC Library Research Commons offers 1:1 and group consultations for GIS related questions, as well as questions regarding Data Analysis, Digital Scholarship, Citation Management: [Book a consult here](https://libcal.library.ubc.ca/appointments/research_commons). There are also numerous workshops from all of these clusters you can work through asynchronously: [see workshop archive here](https://ubc-library-rc.github.io/). Keep in mind consultations offered through the Research Commons are aimed at assisting you as you work through your project rather than creating a methodology for you. 
