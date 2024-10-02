@@ -6,7 +6,7 @@ nav_order: 20
 
 ## Acknowledgements
 
-The workshop content is authored by Lily Demet and Alex Alisauskas.     
+The workshop content is authored by Lily Demet and reviewed by Alex Alisauskas.     
 
 
 ### Site Template
