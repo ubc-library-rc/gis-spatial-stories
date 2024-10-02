@@ -22,7 +22,9 @@ What are static maps? Different kinds of static maps (remember, speaking to non 
 ----
 
 ## Reference Maps
-What are reference maps? When is it useful? Resources --> you can use GIS but also google maps and some other options. (Should I put resources and evaluation breakdown here or under the Assembling resources page??) 
+What are reference maps? When is it useful? 
+Reference maps are useful for providing spatial context, such as identifying the location of a city or region of interest. 
+Resources --> you can use GIS but also google maps and some other options. (Should I put resources and evaluation breakdown here or under the Assembling resources page??) 
 
 
 ### Resources for making static reference maps
@@ -32,7 +34,17 @@ What are reference maps? When is it useful? Resources --> you can use GIS but al
 ----
 
 ## Thematic Maps & Spatial Analysis
+**Spatial anlaysis** Static maps can also render the results of spatial analysis - if thats more complex. --- book consult with gis team if you're not sure... 
+
 What is spatial analysis? Describe different thematic maps and their use purposes below 
+
+Statistics Canada: "A thematic map shows the spatial distribution of one or more specific data themes for standard geographic areas." 
+Thematic maps -->relative density of feature, proportional symbol, choropleth, heatmap. 
+
+
+
+questions to ask yourself to determine if this option suits your project.... 
+
 
 Use GIS to perform spatial analysis and create static thematic maps (in dynamic map section indicate that you can make reference or thematic maps to some extent with leaflet or mapbox.)
 
