@@ -56,7 +56,22 @@ You have to make all the maps and graphics yourself - storymaps is like the aest
 ----
 
 ## Google My Maps
+Great for making a walking tour etc. 
 
+### Pros and cons
+
+- need to have Google Account
+- no prior knowledge needed - very easy to put together a map
+
+### Resources
+- [Google's resource](https://www.google.com/earth/outreach/learn/visualize-your-data-on-a-custom-map-using-google-my-maps/)
+- [video introduction to google my maps](https://www.youtube.com/watch?v=AYetzQ-InXo)
+- [video tutorial](https://www.youtube.com/watch?v=fLhyr5MGi2g)
+
+----
+## Google Earth Tour Builder
+
+[Creating a Narrated Tour in Google Earth Desktop](https://www.google.com/earth/outreach/learn/creating-a-narrated-tour-in-google-earth/)
 ---- 
 ## Timemapper
 More for timelines with auxiliary map to the side
@@ -70,3 +85,8 @@ More for timelines with auxiliary map to the side
 
 ### Resources
 - [Tutorial from Purdue University](https://library.pfw.edu/timemapper)
+
+----
+##  ODYSSEY ?
+open source - developed by CartoDB 
+-[link](https://cartodb.github.io/odyssey.js/)
