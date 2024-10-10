@@ -2,7 +2,7 @@
 
 <head>
 
-  <title>Leaflet Reference Map</title>
+  <title>Leaflet Cluster Map</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -15,7 +15,21 @@
  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
  crossorigin=""></script>
 
-  <script src="./parks-polygon.js" charset="utf-8"></script>
+ <!--marker cluster libraries-->
+ <link
+      rel="stylesheet"
+      href="./Leaflet.markercluster-1.4.1/dist/MarkerCluster.css"
+    />
+    <link
+      rel="stylesheet"
+      href="./Leaflet.markercluster-1.4.1/dist/MarkerCluster.Default.css"
+    />
+
+    <script src="./Leaflet.markercluster-1.4.1/dist/leaflet.markercluster-src.js"></script>
+
+    
+
+  <script src="./parks-point.js" charset="utf-8"></script>
 </head>
 
 <body>
@@ -26,7 +40,7 @@
   <script>
 
     // Initialize your map, sets the initial view location and zoom level
-    var mymap = L.map('mapid').setView([49.2482353821105, -123.11672680598382], 12);
+    var mymap = L.map('mapid').setView([49.2482353821105, -123.11672680598382], 11);
 
     //Load the tile layer, paste in new tile layer of choice.
     var OpenStreetMap_BZH = L.tileLayer('https://tile.openstreetmap.bzh/br/{z}/{x}/{y}.png', {
@@ -38,17 +52,35 @@
       scrollWheelZoom: false,
     }).addTo(mymap);
 
-    //Paste your marker here
-    var jrpark = L.marker([49.26421732514856, -123.1072864102972]).addTo(mymap).bindPopup("Great Swings!!");
-
 
     //Paste the L.geoJSON function here
-    L.geoJSON(parkspoly, {onEachFeature}).addTo(mymap);
+    // L.geoJSON(parkspoint, {onEachFeature}).addTo(mymap);
+
+    // L.geoJSON(parkspoint, {onEachFeature});
+
+    var markers = L.markerClusterGroup();
+
+    L.geoJSON(parkspoint, {
+        onEachFeature: function (feature, layer) {
+           var popupContent =
+            "<b>Name: </b>" +
+            feature.properties.name +
+            "<br><b>Neighbourhood: </b>" +
+            feature.properties.neighbourhoodname
+            ;
+
+       layer.bindPopup(popupContent);
+        },
+      }).addTo(markers);
+      markers.addTo(mymap);
+
 
     //Paste popup function here
-    function onEachFeature(feature, layer) {if (feature.properties && feature.properties.park_name) {layer.bindPopup(feature.properties.park_name);}}
+    function onEachFeature(feature, layer) {if (feature.properties && feature.properties.name) {layer.bindPopup(feature.properties.name);}}
 
   </script>
+
+  
 </body>
 
 </html>
