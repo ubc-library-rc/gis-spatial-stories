@@ -4,21 +4,81 @@ title: Narrative Mapping
 nav_order: 3
 parent: Assembling Resources
 ---
+# Resources for Narrative Mapping 
+{: .no_toc}
+
+At a glance, 
+- what it is; useful for xyz
+- difficulty/learning curve
+- access/ open source or proprietary 
+for all, give 
+- examples (more than in determine output section?)
+
+Resources
+- links to download tool
+- links to task specific plugins
+- links to tutorials and demos 
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+ - TOC
+{:toc}
+</details>
+
+----
+
+## Google Earth
+
+[Google Earth](https://www.google.com/intl/en_ca/earth/outreach/learn/)
+Difficulty to learn: Low 
+Other considerations? 
+- [Create a Map or Story in Google Earth Web](https://www.google.com/intl/en_ca/earth/outreach/learn/create-a-map-or-story-in-google-earth-web/)
+- [Create Narrated Tour in Google Earth Desktop](https://www.google.com/intl/en_ca/earth/outreach/learn/creating-a-narrated-tour-in-google-earth/)
 
 
-## Kight lab StoryMap
+----
+## Esri ArcGIS Storymaps
+[Esri ArcGIS Storymaps](https://storymaps.arcgis.com/) --> give pros and cons, resources to learn, examples. Be sure to differentiate Esri ArcGIS Storymaps and StoryMaps (basically like a glorified social media story)
+ - Difficulty: Medium 
 
 
-### What it is 
+----
+### Knightlab StoryMap
+
 Knightlab Storymaps JS open source
 displaying georeferenced map on knightlab [here](https://programminghistorian.org/en/lessons/displaying-georeferenced-map-knightlab-storymap-js)
 
 can also make a [timeline](https://timeline.knightlab.com/)
 
-### Examples 
+[knightlab StoryMap](https://storymap.knightlab.com/)
+Difficulty: Medium-High
+Open Source
+- [Video introduction to knightlab StoryMap](https://www.youtube.com/watch?v=X33ud7RYZFg) by Cara Marta Messina
+- [Workshop on knightlab](https://libguides.hope.edu/storymap) by Victoria Longfield from Hope College
+- another [Workshop](https://dh.sites.gettysburg.edu/toolkit/tools/storymap-js/) on knightlab StoryMap by Gettysburg College
+- Another [video workshop](https://www.youtube.com/watch?v=ywKH_Ja7sm0) on knightlab's Storymaps by Dr. Anne Ladyem McDivitt of the Alabama Digital Humanities Center
+
+
 Example Kightlab storymaps 
 - [Canada's Deforestation monitoring storymap](https://ca.nfis.org/ndms/ndms_overview_eng.html)
 - [Ancient Rome in Chicago](https://s3.amazonaws.com/uploads.knightlab.com/storymapjs/783a09de8300e1b5f74b99b99acb08ef/ancient-rome-in-chicago/index.html)
+
+----
+### TimeMapper
+[TimeMapper](https://timemapper.okfnlabs.org/)
+Difficulty:
+Open Source
+
+
+
+
+
+
+
+
 
 
 ### Pros and Cons 
@@ -90,3 +150,7 @@ More for timelines with auxiliary map to the side
 ##  ODYSSEY ?
 open source - developed by CartoDB 
 -[link](https://cartodb.github.io/odyssey.js/)
+
+----
+## 
+[neatline](https://www.neatline.org/about/)

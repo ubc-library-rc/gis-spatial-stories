@@ -23,65 +23,41 @@ Dynamic maps... what are they? Web based, interactive, educational? allow user t
 ## Web Maps 
 Webmaps are.... Examples of what you can show --> examples of two technologies, as well as QGIS --> web. You can create all the same thematic maps, just hosted on the web. Two popular software --> Leaflet and Mapbox.
 
+### Reference webmaps 
+simple reference map with data layer or point
+maybe re do so its parks of vancouver to be consistent with static map examples
 
-### Leaflet
-- What is leaflet? requires learn code --> give resources and example leaflet maps
-Resources here? 
-- [Intro to Leaflet](https://ubc-library-rc.github.io/gis-intro-leaflet/) workshop
+<iframe src="./reference/leaflet-reference-map.html" style="width:90%; height:450px; border:none;"> </iframe>
 
-
-<iframe src="./leaflet-example.html" style="width:100%; height:500px; border:none;"> </iframe>
-
-  
+give a google maps example 
 
 
+### Thematic webmaps 
+- thematic with leaflet, mapbox, and with qgis to web plugin 
 
-### Mapbox 
-What it is, what it can do, pros cons etc. Studio vs coding.
+Example of cluster maps --> zoom in and out
 
-- UBC Research Commons' [Intro to Mapbox](https://ubc-library-rc.github.io/intro-mapbox/) workshop
-- [Intro to mapbox studio]
-- [Choropleth maps with Mapbox](https://labs.mapbox.com/education/thematic-map-types/choropleth/)
-- [Heatmaps with Mapbox Studio](https://docs.mapbox.com/help/tutorials/studio-heatmap-tutorial/)
-- [Dot Density maps with Mapbox](https://labs.mapbox.com/education/thematic-map-types/dot-density/)
-- [Graduated Symbol maps with Mapbox](https://labs.mapbox.com/education/thematic-map-types/graduated-points/)
+<iframe src="./reference/leaflet-cluster-map.html" style="width:90%; height:450px; border:none;"> </iframe>
+
+<iframe src="./reference/mapbox-cluster-map.html" style="width:90%; height:400px; border:none;"> </iframe>
+
+### Interactive Dashboards 
+--> showing things --> customizing (open source and non open source options)
+
+- give examples that use leaflet, mapbox, agol, google, felt,
 
 
-### QGIS to Web plugin 
-- QGIS plugin for turning your qgis map into an interactive webmap powered by leaflet
-- will need somewhere to store map --> github etc. 
 
-<br><br>
+
+
 ---
 
 
 ## Narrative Maps  
 
-### Google Earth
-[Google Earth](https://www.google.com/intl/en_ca/earth/outreach/learn/)
-Difficulty to learn: Low 
-Other considerations? 
-- [Create a Map or Story in Google Earth Web](https://www.google.com/intl/en_ca/earth/outreach/learn/create-a-map-or-story-in-google-earth-web/)
-- [Create Narrated Tour in Google Earth Desktop](https://www.google.com/intl/en_ca/earth/outreach/learn/creating-a-narrated-tour-in-google-earth/)
-    
-### Esri ArcGIS Storymaps
-[Esri ArcGIS Storymaps](https://storymaps.arcgis.com/) --> give pros and cons, resources to learn, examples. Be sure to differentiate Esri ArcGIS Storymaps and StoryMaps (basically like a glorified social media story)
- - Difficulty: Medium 
+- give examples that use  neatline, knightlab, google earth, storymaps, 
 
-### Knightlab StoryMap
-[knightlab StoryMap](https://storymap.knightlab.com/)
-Difficulty: Medium-High
-Open Source
-- [Video introduction to knightlab StoryMap](https://www.youtube.com/watch?v=X33ud7RYZFg) by Cara Marta Messina
-- [Workshop on knightlab](https://libguides.hope.edu/storymap) by Victoria Longfield from Hope College
-- another [Workshop](https://dh.sites.gettysburg.edu/toolkit/tools/storymap-js/) on knightlab StoryMap by Gettysburg College
-- Another [video workshop](https://www.youtube.com/watch?v=ywKH_Ja7sm0) on knightlab's Storymaps by Dr. Anne Ladyem McDivitt of the Alabama Digital Humanities Center
-- [Displaying Georeferenced map with knightlab](https://programminghistorian.org/en/lessons/displaying-georeferenced-map-knightlab-storymap-js)
-See Research Commons workshop on georeferencing historical maps [here](https://ubc-library-rc.github.io/gis-georeferencing/)
+timeline, image/text and map, clickable story etc. 
 
-### TimeMapper
-[TimeMapper](https://timemapper.okfnlabs.org/)
-Difficulty:
-Open Source
 
 

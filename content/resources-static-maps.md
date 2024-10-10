@@ -4,6 +4,39 @@ title: Static Maps & Spatial Analysis
 nav_order: 1
 parent: Assembling Resources
 ---
+# Resources for Static Mapping 
+{: .no_toc}
+
+At a glance, 
+- what it is; useful for xyz
+- difficulty/learning curve
+- access/ open source or proprietary 
+for all, give 
+- examples (more than in determine output section?)
+
+Resources
+- links to download tool
+- links to task specific plugins
+- links to tutorials and demos 
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+ - TOC
+{:toc}
+</details>
+
+----
+
+### Resources for making static reference maps
+
+Resources --> you can use GIS but also google maps and some other options. 
+
+ > - (include resources here? or under assembling resources page? or break the subpages for Determining Output into These subcategories instead of Static/Dynaic? If I include under Assembling Resources, I can both break down the different softwares and provide resources for learning them...  Is there a way to simply hint here to what tools to look further into in the next section)
+<br>
+<br>
 
 GIS 
 
@@ -16,4 +49,13 @@ GIS
 MyOSMatic
 
 [MapOSMatic](https://print.get-map.org/)| "MapOSMatic is a free software webservice to generate maps of cities using OpenStreetMap data". Create rudimentary city map in just a few clicks! Difficulty low, but little room for customization. | no experience necessary | link |
+
+
+
+Editing further; drawing map directly 
+- **[Inkscape](https://inkscape.org/release/inkscape-1.2.2/)** Free and Open Source SVG Editor 
+
+- **[GIMP](https://www.gimp.org/)** - Free & Open Source Image Editor
+
+- Adobe Illustrator
 
