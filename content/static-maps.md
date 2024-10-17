@@ -30,6 +30,12 @@ Examples (embed some and then link to more)
 - map of city of vancouver, with osm or qgis
 - map drop pin of a park with inset of where in vancouver it is
 
+<img src="./reference/reference-example.jpeg" style="width:100%">
+
+
+<img src="./reference/jr-park.jpeg" style="width:100%">
+
+
 ----
 
 ## Thematic Maps & Spatial Analysis
@@ -42,14 +48,16 @@ Spatial analysis --> output thematic maps. Use GIS to perform spatial analysis a
 
 Showing two variables at once? try making[bivariate choropleth map in QGIS](https://bnhr.xyz/2019/09/15/bivariate-choropleths-in-qgis.html)
 
+<img src="./reference/choropleth-example.jpeg" style="width:100%">
+
 ### Heatmap
-> distance to a library or community center
+> or distance to a library or community center
 
-### Dot Density Map
-> grocery stores? 
 
-### Cartogram 
-- neighborhoods by total park area
+<img src="./reference/heatmap-example2.jpeg" style="width:100%">
+
+
+<!-- cartogram and dot density require plugins in qgis-->
 
 ### Proportional Symbol map 
 (can also be made using inkscape or adobe illustrator)
