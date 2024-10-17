@@ -41,14 +41,23 @@ Reference webmaps can be as simple as a basemap with a drop-pin locator or a sin
 
 
 ### Thematic Webmaps 
-Thematic maps visualize the results of some spatial analysis. While you can do this spatial analysis in QGIS and then export your data or map... You can also use Leaflet or Mapbox to power the spatial analysis for you --> through functions. Like cluster, heatmap, etc. 
+Thematic maps visualize the results of some spatial analysis. With a bit of code, you can create thematic webmaps. 
 
-<iframe src="./reference/leaflet-cluster-map.html" style="width:90%; height:450px; border:none;"> </iframe>
-
-<iframe src="./reference/mapbox-cluster-map.html" style="width:90%; height:400px; border:none;"> </iframe>
-
+<!-- While you can do this spatial analysis in QGIS and then export your data or map... You can also use Leaflet or Mapbox to power the spatial analysis for you through functions. Like cluster, heatmap, etc.  -->
 
 <iframe src="./reference/leaflet-choropleth-map.html" style="width:90%; height:400px; border:none;"> </iframe>
+<a href="./reference/leaflet-choropleth-map.html" target="_blank">See example as full-page map</a>
+  
+
+<iframe src="./reference/leaflet-cluster-map.html" style="width:90%; height:450px; border:none;"> </iframe>
+<a href="./reference/leaflet-cluster-map.html" target="_blank">See example as full-page map</a>
+    
+
+<iframe src="./reference/mapbox-cluster-map.html" style="width:90%; height:400px; border:none;"> </iframe>
+<a href="./reference/mapbox-cluster-map.html" target="_blank">See example as full-page map</a>
+
+
+
 
 <!-- ### Interactive Dashboards 
 Interactive dashboards, combine maps - more info. ...
