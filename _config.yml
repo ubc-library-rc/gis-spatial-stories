@@ -14,7 +14,8 @@ plugins:
   - jekyll-seo-tag
 
 exclude:
-  - "./content/reference/Leaflet.markercluster-1.4.1/CHANGELOG.md"
-  - "./content/reference/Leaflet.markercluster-1.4.1/"
+  - "content/reference/Leaflet.markercluster-1.4.1/CHANGELOG.md"
+  - "content/reference/Leaflet.markercluster-1.4.1/"
+  - "content/reference/Leaflet.markercluster-1.4.1/README.md"
 
-exclude: [./content/reference.Leaflet.markercluster-1.4.1/, ./content/reference/Leaflet.markercluster-1.4.1/CHANGELOG.md]
+exclude: [content/reference.Leaflet.markercluster-1.4.1/, content/reference/Leaflet.markercluster-1.4.1/CHANGELOG.md, content/reference/Leaflet.markercluster-1.4.1/README.md]
