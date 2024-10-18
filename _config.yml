@@ -16,3 +16,5 @@ plugins:
 exclude:
   - "./content/reference/Leaflet.markercluster-1.4.1/CHANGELOG.html"
   - "./content/reference/Leaflet.markercluster-1.4.1/"
+
+exclude: [./content/reference.Leaflet.markercluster-1.4.1]
