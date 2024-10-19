@@ -17,7 +17,7 @@ Once you've articulated your objectives and constraints, and have decided on an 
 > - Is code development a deal breaker? 
 
 
-The following group of pages will guide you through assembling your data and technical resources, as well as provide documentation for troubleshooting along the way. An elaboration on various tools/platforms is broken down by those related to Static Maps & Spatial Analysis, those relevent to Web Mapping, those for building Narrative spatial stories, and those for Georeferencing. However, many tools/platforms relate to more than one kind of endeavor, and some endeavors will require more than one tool/platform. While designing a workflow for getting your story made is outside the scope of this workshop, bring your projects to Day Two and we will do our best to collectively help get you started. 
+The following group of pages will guide you through assembling your data and technical resources, as well as provide documentation for troubleshooting along the way. An elaboration on various tools/platforms is broken down by those related to **Static Maps & Spatial Analysis**, those relevant to **Web Mapping**, those for building **Narrative spatial stories**, and those for **Georeferencing**. However, many tools/platforms relate to more than one kind of endeavor, and some endeavors will require more than one tool/platform. While designing a workflow for getting your story made is outside the scope of this workshop, bring your projects to Day Two and we will do our best to collectively help get you started. 
 
 
 
