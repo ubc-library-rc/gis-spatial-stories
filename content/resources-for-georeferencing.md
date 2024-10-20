@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Georeferencing
-nav_order: 4
+nav_order: 5
 parent: Assembling Resources
 ---
 # Resources for Georeferencing
@@ -23,3 +23,14 @@ Resources
 
 - [Displaying Georeferenced map with knightlab](https://programminghistorian.org/en/lessons/displaying-georeferenced-map-knightlab-storymap-js)
 See Research Commons workshop on georeferencing historical maps [here](https://ubc-library-rc.github.io/gis-georeferencing/)
+
+### Resources for georeferencing 
+
+often with GIS --> QGIS --> see Koerner Library Research Commons Workshop on [Georeferencing with QGIS](https://ubc-library-rc.github.io/gis-georeferencing/)
+
+Can also be done with other websites... 
+- **[IIIF](https://iiif.io/)** What it is...
+- **[David Rumsey Map Collection Georeferencer](https://www.davidrumsey.com/view/georeferencer)**
+- **[Map Warper](https://mapwarper.net/)** Free and open source
+<br>
+<br>

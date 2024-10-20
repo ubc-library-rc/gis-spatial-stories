@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Web Mapping
-nav_order: 2
+nav_order: 3
 parent: Assembling Resources
 ---
 # Resources for web mapping 
@@ -31,17 +31,23 @@ Resources
 ----
 
 ## Leaflet
+Leaflet is a set of instructions that your web browser or mobile device uses to display maps and let you interact with them. For example, when you double click your mouse on a map, leaflet tells your browser to zoom in. Leaflet defines the style of your map and includes things like zoom controls, attribution links, pop-ups, colors for markers and more. Leaflet is made up of only 38kb of Javascript, so it is really fast and lightweight - meaning browsers don’t have to work very hard to load it. Leaflet is open source, free, and hugely customizable. And, because of this, Leaflet is widely used. There are lots of alternatives to Leaflet, like for example Google Maps, which you need an API key to use.
+
+Leaflet consists of JavaScript and CSS code libraries which power the ways your web browser interprets and interacts with geospatial data & displays colors and style. For instance, when you double click a map to zoom in, Leaflet is at work. When you add data to your map, Leaflet assigns it a default color. And because Leaflet is open-source, the code is hugely customizable and extensible. This means you can re-mix the code all you want — which you will do in this workshop. [Here are some examples](https://leafletjs.com/plugins.html) of Leaflet-based plugins to give you some idea of the variety of added functionality that comes from the community of developers.
 
 
-- What is leaflet? requires learn code --> give resources and example leaflet maps
-Resources here? 
-- [Intro to Leaflet](https://ubc-library-rc.github.io/gis-intro-leaflet/) workshop
 
 - leaflet you can [change the CRS](https://leafletjs.com/reference.html#crs) whereas in Mapbox, always wgs 84 web mercator. 
 
+#### Leaflet Advantages  ⇡
+{: .no_toc}
 
-### Resources for working with Leaflet
+#### Leaflet Disadvantages ⇣
+{: .no_toc}
 
+#### Resources for working with Leaflet
+{: .no_toc}
+- [Intro to Leaflet](https://ubc-library-rc.github.io/gis-intro-leaflet/) workshop
 #### Plugins/tutorials for basic thematic mapping
 {: .no_toc}
 - [Heatmaps with Leaflet](https://leafletjs.com/plugins.html#heatmaps)
@@ -71,8 +77,20 @@ Plugins --> extended functionality - makes leaflet hugely customizable
 ----
 
 ## Mapbox
+[Mapbox](https://www.mapbox.com/) is a robust Geospatial Software As A Service (saas) for developers, and includes products such as toolkits for mobile app development, navigation, web maps, and data management. Mapbox's service model is based on a paid subscription, but they offer a free service tier for those interested in using Mapbox products for learning. You will be asked to put in credit card information, however. If this is your first time hearing about Mapbox, [How Mapbox Works](https://docs.mapbox.com/help/getting-started/) provides a great introduction.
 
-What it is, what it can do, pros cons etc. Studio vs coding.
+Note you can make maps with code or without. custom basemap styles etc. 
+Fancier leaflet... maybe best to just do leaflet. 
+
+
+#### Mapbox Advantages  ⇡
+{: .no_toc}
+
+#### Mapbox Disadvantages ⇣
+{: .no_toc}
+
+#### Resources for working with Mapbox
+{: .no_toc}
 
 - UBC Research Commons' [Intro to Mapbox](https://ubc-library-rc.github.io/intro-mapbox/) workshop
 - [Intro to mapbox studio]
@@ -85,12 +103,32 @@ What it is, what it can do, pros cons etc. Studio vs coding.
 ## QGIS to Web
 - QGIS plugin for turning your qgis map into an interactive webmap powered by leaflet
 - will need somewhere to store map --> github etc. 
-----
 
+could include example of qgis to web map under resources.  
+
+embed example.... 
+
+----
 ## ArcGIS Online
+
+
+#### ArcGIS Online Advantages  ⇡
+{: .no_toc}
+
+#### ArcGIS Online Disadvantages ⇣
+{: .no_toc}
+
 ----
 
 ## Google Maps 
+
+#### Google Maps Advantages  ⇡
+{: .no_toc}
+- easy, straightforward, free
+
+
+#### Google Maps Disadvantages ⇣
+{: .no_toc}
 
 ----
 ## Felt
@@ -105,3 +143,9 @@ has a free tier
 ----
 ## map libre
 https://maplibre.org/
+
+
+---- 
+
+## uMap
+[uMap](https://umap.openstreetmap.fr/en/) "uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site." is open source, free to use. can add data layers.
