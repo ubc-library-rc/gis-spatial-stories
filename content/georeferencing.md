@@ -19,7 +19,7 @@ What do you hope to gain from georeferencing? How might georeferencing be useful
 
 <img src="./images/georef-ex1.png" style="width:100%">
 <img src="./images/georef-ex2.png" style="width:100%">
-<img src="./images/georef-ex3.png" style="width:100%">
+<img src="./images/georef-ex3.jpg" style="width:100%">
 
 
 
