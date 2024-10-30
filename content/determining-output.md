@@ -13,11 +13,15 @@ There are two ways to share a spatial story: either a static or dynamic visual. 
 
 The following subpages break down different kinds of static and dynamic maps with examples.... As you go, keep in mind the questions from Project Design 
   
-> - Who is your audience? Who is your spatial story for? To whom should it be legible?
-> - How do you want your audience to interact/engage with your story? Will it be a stand-alone graphic or integrated somehow in a publication or website?
-> - Thinking back to your objectives, is the purpose of your story to provide contextual spatial reference, convey a narrative, or visualize spatial data? 
-> - Do you want your output to be a static map, or something more dynamic and interactive hosted on the web? 
-> - It can be helpful in this stage to gather some examples that approximate your desired output. From where do you draw inspiration? 
+ > - Who is your audience? Who is your spatial story for? To whom should it be legible?
+
+  > - How do you want your audience to interact/engage with your story? Will it be a stand-alone graphic or integrated somehow in a publication or website?
+
+  > - Thinking back to your overarching project objectives, is the purpose of your story to provide contextual spatial reference, convey a narrative, or visualize the results of some analysis? 
+  
+  > - Do you want your output to be a static map, or something more dynamic and interactive hosted on the web? 
+
+  > - It can be helpful in this stage to gather some examples that approximate your desired output. From where do you draw inspiration?
 
 There is usually more than one way to create a desired output, and the final step/page group, **Assembling Resources** will guide you through different software/tools once you've determined what your output will be. 
 
