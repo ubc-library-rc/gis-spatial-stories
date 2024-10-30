@@ -7,11 +7,12 @@ has_children: true
 
 # Determining the output
 
-In order to determine what output best suits your project and capacities, it's helpful to see some examples. 
+There are two main ways to share a spatial story: either as a static map or dynamic visual. **Static maps** tell a spatial story at a single scale. Static maps can be exported/stored/formatted as an image (.jpeg or .png), can be exported as a pdf, printed or embedded digitally into website or online publication. They can also be included in an academic paper, poster, or flyer. **Dynamic maps**, on the other hand, allow the user to interact with your spatial story. Dynamic display data in an interactive fashion, allowing viewers to pan around and zoom in and out to reveal more information at different scales. Dynamic, interactive narratives are not designed to be printed out. Rather, they are hosted on the web, either by a local server or internet hosting platform.
 
-There are two ways to share a spatial story: either a static or dynamic visual. **Static maps** tell a spatial story at a single scale. Static maps can be exported/stored/formatted as an image (.jpeg or .png), can be exported as a pdf, printed or embedded digitally into website or publication. They can be included in an academic paper, poster, or flyer. **Dynamic maps**, on the other hand, allow the user to interact with your spatial story. Dynamic display data in --- way -- at multiple scales, allowing zoom in and out and panning. They are not designed to be printed out, but rather hosted on the web either by a local server or internet hosting platform. 
+## Keep in mind...
+In order to determine what output best suits your project and capacities, it's helpful to explore some examples. The following subpages introduce different kinds of static and dynamic maps. There is usually more than one way to create a desired output. 
 
-The following subpages break down different kinds of static and dynamic maps with examples.... As you go, keep in mind the questions from Project Design 
+The final section of this workshop, **Assembling Resources**, will evaluate different software/tool options based on criteria such as accessability and learning curve. For now, focus on determining what the output format of your spatial story will be.As you go, keep in mind the following **Project Design** questions:
   
  > - Who is your audience? Who is your spatial story for? To whom should it be legible?
 
@@ -23,11 +24,6 @@ The following subpages break down different kinds of static and dynamic maps wit
 
   > - It can be helpful in this stage to gather some examples that approximate your desired output. From where do you draw inspiration?
 
-There is usually more than one way to create a desired output, and the final step/page group, **Assembling Resources** will guide you through different software/tools once you've determined what your output will be. 
-
-<!-- Questions to ask/considerations to think through which is best for you/ your project. the sub-pages walk you through how to do each and give free and open source options at a variety experience levels.  -->
-
-<!-- give example of reference map both as static image and web map. Give example of choropleth symbol map as both static and web. Still need to consider how to introduce platforms and resources. maybe this page can be to further work out the most suitible output format, and then the tools/platform/resources page can offer a variety of ways to make that format given constraints on time/resources/skills  -->
 
 
 
