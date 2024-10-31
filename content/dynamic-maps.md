@@ -59,7 +59,7 @@ Thematic maps visualize the results of some spatial analysis. With a bit of code
 <iframe src="./reference/mapbox-cluster-map.html" style="width:90%; height:400px; border:none; "></iframe>
 
 
-<sub>[See below proportional symbol map example as full-page map](./reference/leaflet-proportional-symbol-map.html)</sub>
+<sub>[See below proportional symbol map example as full-page map](./reference/leaflet-proportional-symbol-map.html)</sub> Hover over the circles to learn the municipality population for Vancouver Island.
 <iframe src="./reference/leaflet-proportional-symbol-map.html" style="width:90%; height:450px; border:none; "></iframe>
 
 *create a proportional symbol map and even heatmap with leaflet*
