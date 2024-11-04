@@ -51,8 +51,7 @@ Reference maps can simply show urban infrastructure in a specific area:
 
   
 ## Thematic Maps & Spatial Analysis
-Writes _Statistics Canada_: "A thematic map shows the spatial distribution of one or more specific data themes for standard geographic areas."
-[Thematic maps](https://en.wikipedia.org/wiki/Thematic_map) render the results of **Spatial anlaysis**. 
+Writes _Statistics Canada_: "A thematic map shows the spatial distribution of one or more specific data themes for standard geographic areas." [Thematic maps](https://en.wikipedia.org/wiki/Thematic_map) render the results of **Spatial anlaysis**. 
 
  >>  **Spatial analysis** is the process of manipulating spatial information to extract new information and meaning from the original data. Usually spatial analysis is carried out with a Geographic Information System (GIS). A GIS usually provides spatial analysis tools for calculating feature statistics and carrying out geoprocessing activities as data interpolation. -- [QGIS](https://docs.qgis.org/2.18/en/docs/gentle_gis_introduction/spatial_analysis_interpolation.html#:~:text=Overview,Geographic%20Information%20System%20(GIS).)
  
@@ -76,33 +75,21 @@ If you have a substantial amount of time, you can create elaborate, aesthetic ma
 
 ### Heatmap
 <!-- > or distance to a library or community center -->
-A heatmap visualizes point data by occurrences. 
+A heatmap visualizes point data by occurrences. See below for an example. 
 <img src="./reference/heatmap-example2.jpeg" style="width:100%">
 
-[making a heatmap in QGIS](https://www.qgistutorials.com/en/docs/3/creating_heatmaps.html)
 
-
-<!-- cartogram and dot density require plugins in qgis-->
 
 ### Proportional Symbol map 
-[Axis Maps](https://www.axismaps.com/guide/proportional-symbols)
-(can also be made using inkscape or adobe illustrator)
-> parks per vancouver neighborhood
-
->- [Multi variable proportional symbol maps](https://www.axismaps.com/guide/proportional-symbols)
+[Proportional symbol maps](https://www.axismaps.com/guide/proportional-symbols) are maps with symbols whose size corresponds to total numbers in different areas, such as population or number of earthquakes per year. [You can also make multiple variable proportional symbol maps](https://www.axismaps.com/guide/proportional-symbols). Proportional symbol maps can be made in a GIS, or in an illustration software. 
 
 
-### Dot Density Maps
+### Cartogram and Dot Density Maps
 
-http://www.axismaps.com.s3-website-us-east-1.amazonaws.com/guide/univariate/dot-density/
-
-### More examples 
-{: .no_toc}
-
-Give some other examples from the web etc.
+[Dot density maps](http://www.axismaps.com.s3-website-us-east-1.amazonaws.com/guide/univariate/dot-density/) and [cartogram maps](https://en.wikipedia.org/wiki/Cartogram) are other thematic options. If you're using QGIS as a mapping software, you'll need to install a [plugin](https://plugins.qgis.org/plugins/) to create either. 
 
 
-You can read more about the pros and cons of different kinds of thematic maps [here](https://mapscaping.com/what-is-a-thematic-map/).
+
 <br>
 <br>
 ----
