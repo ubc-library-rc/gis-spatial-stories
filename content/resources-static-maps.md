@@ -41,14 +41,14 @@ Resources
 QGIS comes with a medium learning curve, especially if you've never used a GIS before. However, there is a an abundance of QGIS-official and unofficial documentation on the internet in the form of tutorials and youtube demonstrations, meaning you can tailer your learning experience to specifically what you want to do. The best way to learn QGIS is through experience and hands-on practice.
 
 > #### QGIS Advantages  ⇡
-{: .no_toc}
+> {: .no_toc}
 > - Runs on Windows, Mac, Linux, Android
 > - Extensive QGIS-official [online documentation](https://docs.qgis.org/3.28/en/docs/training_manual/index.html)
 > - Active development and user communities, meaning people are constantly posing and answering questions on conversational/troubleshooting platforms such as Reddit and StackExchange 
 > - Robust [plugin](https://plugins.qgis.org/) repository for extended functionality
 
 > #### QGIS Disadvantages ⇣
-{: .no_toc}
+> {: .no_toc}
 > - Most recent features can be buggy, which is why we recommend always downloading the latest Long Term Release, often small hyperlink below main download button. 
 > - Plugins lack standardized documentation as they are largely user-community developed and contributed
 > - Troubleshooting often amounts to searching the web, though this is an important skill to have as a cartographer. 
@@ -65,12 +65,12 @@ QGIS comes with a medium learning curve, especially if you've never used a GIS b
 
 
 > #### ArcGIS Advantages  ⇡
-{: .no_toc}
+> {: .no_toc}
 > - Suite of tools for vector analysis and image processing
 > - ?
 
 > #### ArcGIS Disadvantages ⇣
-{: .no_toc}
+> {: .no_toc}
 > - ArcGIS Pro only runs on Windows operating system 
 > - ArcGIS Pro is a proprietary software
 > - Licensing is a hassle, and collaboration can only occur between people with a license. 
@@ -92,11 +92,10 @@ If you just want a quick reference map and don't want to use a GIS, couple of op
 [MapOSMatic](https://print.get-map.org/)"MapOSMatic is a free software webservice to generate maps of cities using OpenStreetMap data". Create rudimentary city map in just a few clicks! Difficulty low, but little room for customization.
 no expertise necessary
 
-### Mapbox
+### Mapbox Studio
 https://docs.mapbox.com/help/dive-deeper/static-maps/
 
-### Zeemaps
-https://www.zeemaps.com/
+
 
 <!-- ### Google Maps Platform
 https://developers.google.com/maps -->
