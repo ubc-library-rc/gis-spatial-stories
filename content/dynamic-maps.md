@@ -40,6 +40,14 @@ Much like their static counterparts, reference webmaps can be as simple as a bas
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1aslINORADirq1Cx5_mRG4s2EO2OfxF4&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
 
+
+Some popular reference webmaps out there:
+<iframe src="https://native-land.ca/" width="640" height="640"></iframe>
+
+<iframe src="https://www.queeringthemap.com/" width="640" height="640"></iframe>
+
+
+
 *Maybe add an example that's like: a nice walk I took.*
 
 
@@ -62,23 +70,32 @@ Thematic maps visualize the results of some spatial analysis. With a bit of code
 <sub>[See below proportional symbol map example as full-page map](./reference/leaflet-proportional-symbol-map.html)</sub> Hover over the circles to learn the municipality population for Vancouver Island.
 <iframe src="./reference/leaflet-proportional-symbol-map.html" style="width:90%; height:450px; border:none; "></iframe>
 
-*create a proportional symbol map and even heatmap with leaflet*
-
 
 ---
 ## Narrative Maps  
-Narrative maps, tell a story with images and text at locations, by a thread - perhaps linear. changing frame brings the visitor on a journey. For example, a timeline, a travel voyage. Below are some examples by different hosting platforms. Assembling Resources section will go further into advantages and disadvantages of each. 
+Narrative maps tell a story with images and text at locations, by a thread - perhaps linear. changing frame brings the visitor on a journey. For example, a timeline, a travel voyage. Below are some examples by different hosting platforms. Assembling Resources section will go further into advantages and disadvantages of each. 
 
-- [Neatline]() 
-- [Knightlab storymap]
-- [Knightlab timeline]
+
+- [Canada's Deforestation monitoring storymap](https://ca.nfis.org/ndms/ndms_overview_eng.html)
+
+- [Ancient Rome in Chicago](https://s3.amazonaws.com/uploads.knightlab.com/storymapjs/783a09de8300e1b5f74b99b99acb08ef/ancient-rome-in-chicago/index.html) 
+
+- [Urban Tree tour](https://kamloops.maps.arcgis.com/apps/Shortlist/index.html?appid=96ba7bf46e4f45f484e872fd47c9a004) 
+
+- [Isolation Psychogeography](https://storymaps.arcgis.com/stories/4ab243f6d7b3490bbfa884d18a788236)
+
+
+- [archeology of wine](https://timemapper.okfnlabs.org/adamrabinowitz/archaeowinetimeliner)
+
+
+
 - [Google Earth]
-- [ArcGIS StoryMaps]
-
-
-
 Add a google story maps walking path example. 
 or leaflet --> maybe qgis incorperated. 
+
+https://www.google.com/maps/about/behind-the-scenes/streetview/treks/yosemite/#trek
+
+
 
 https://www.google.com/earth/outreach/learn/create-a-map-or-story-in-google-earth-web/
 
