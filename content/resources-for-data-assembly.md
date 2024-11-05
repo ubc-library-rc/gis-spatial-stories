@@ -13,15 +13,15 @@ It's now time to assemble your data. Take a moment to inventory what you have, a
 
 > - Whose data is it? Are there any special permissions you need to obtain or access restrictions to be aware of? Note where you are storing your data, any associated licences/attributions, and ensure everyone who needs access has it.
 
-<!-- > - How are you managing and storing your data? Will you and everyone who needs to have access to everything for the duration of this project? -->
-
-> - What format is your data in? (For example, it could be in an excel document or csv, or a collection of images, a text file, a geospatial file such as a shapefile, geoJSON, .tif, xml....) Do you need to convert any of your data into a different format? 
+> - What format is your data in (e.g. excel document, csv, text, image, geospatial file such as shapefile or .geoJSON, historical map…)? Is your data in current format legible to the software you intend to use? If not, do you need to convert any of it into a different format?
 	>> As you work through choosing an appropriate software, it will become clearer whether or not your data's current form is legible to the software you intend to use. There are often ways to convert data between formats. [FME](https://fme.safe.com/) is a good interoperability resource for more complex workflows, and they are generous with free student licenses. 
 
 > - What aspect of your data is spatial? In other words, what is the location/geographical attribute? For example, is it a column of street address? The names of cities? Coordinate pairs?...
 <!-- are there any location based attributes?
- (street address, geographic coordinates, city, town, country?) is there a map? (skills: geocoding, georeferencing, projecting) --> -->
+ (street address, geographic coordinates, city, town, country?) is there a map? (skills: geocoding, georeferencing, projecting) --> 
 <!-- How to determine what's so spatial about your data.... (st addressses, then geocode) (given cities, spatial join to city layer in qgis OR add columns for xy data - copy paste from google maps  )(coordinates, display xy )(draw layer aoi in qgis) this all shows the myriad of ways data can be spatial spatializing data - (geocoding, displaying xy data) data analysis -->
+
+> - Do you have physical or historical maps as part of your project? Do you need to scan them? If you're planning on using them in any way other than as decorative/informative archival images, you'll want to look into georeferencing. 
 
 Below are some resources for finding more data or creating your own. disclaimers??
 
