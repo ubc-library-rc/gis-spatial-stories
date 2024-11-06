@@ -64,7 +64,7 @@ The best way to learn QGIS is through experience and hands-on practice.QGIS come
     
 <br>
 ### ArcGIS Pro 
-[ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) is a proprietary desktop GIS that requires either a personal or institutional license. If you are faculty or student at UBC, you can learn more about obtaining access [here](https://gis.ubc.ca/software/#:~:text=FOR%20STUDENT%20PERSONAL%20COMPUTERS&text=This%20%2420%20license%20includes%20ArcGIS,reduced%20cost%20is%20also%20available.&text=This%20is%20a%20non%2Drefundable,installed%20on%20personal%20computers%20only.). ArcGIS has a medium learning curve. There is moderate documentation online, and while Esri offers training courses they often require payment to attend. 
+[ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) is a proprietary desktop GIS that requires either a personal or institutional license. If you are faculty or student at UBC, you can learn more about obtaining access [here](https://gis.ubc.ca/software/#:~:text=FOR%20STUDENT%20PERSONAL%20COMPUTERS&text=This%20%2420%20license%20includes%20ArcGIS,reduced%20cost%20is%20also%20available.&text=This%20is%20a%20non%2Drefundable,installed%20on%20personal%20computers%20only.). ArcGIS has a medium learning curve. There is moderate documentation online, though many of the training courses & books Esri offers require payment to attend.
 
 
 > #### ArcGIS Advantages  ⇡
@@ -78,6 +78,7 @@ The best way to learn QGIS is through experience and hands-on practice.QGIS come
 > - ArcGIS Pro only runs on Windows operating system. If you have a license, you can log in on a Windows computer such as those in Koerner Library or use something like [Parallels](https://www.parallels.com/products/desktop/) to run a virtual Windows machine on your mac. However, this latter option takes up a lot of processing power on your computer, meaning it's likely to crash often and wear out your battery. 
 > - Licensing is a hassle, and collaboration can only occur between people who both own an active license. 
 
+<br>
 
 ### Other open-source GIS platforms
 {: .no_toc}
@@ -88,31 +89,32 @@ While this workshop favors QGIS and the Research Commons exclusively runs QGIS w
 
 
 ## Non GIS options for making static maps
-If you just want a quick reference map and don't want to use a GIS, you have a couple of options. You can also use illustration software either to make an entire rudimentary map using SVG vector graphics, or to embellish an initial map produced with a GIS. 
+If you just want a quick reference map but don't want to use a GIS, you have a couple of options. 
 
 ### MyOSMatic
-[MapOSMatic](https://print.get-map.org/)"MapOSMatic is a free software webservice to generate maps of cities using OpenStreetMap data". Create rudimentary city map in just a few clicks! Difficulty low, but little room for customization.
-no expertise necessary
+"MapOSMatic is a free software webservice to generate maps of cities using OpenStreetMap data". [MapOSMatic](https://print.get-map.org/) allows you to create basic reference maps with just a few clicks. It is very easy to use, but has little room for customization. It is an entirely web-based interface and requires no expertise to use.  
 
 ### Static Map Maker
-[Static Map Maker](https://staticmapmaker.com/mapbox/) allows you to easily create and download a static map from the web just by pasting some information into its parameters. You can choose from Bing, Google Maps, Google Street View, HERE, and MapQuest basemaps. Once you've selected a basemap provider of your choise, you will notice it says "authentication required". You _will_ need an API key (access token) to use any of the basemaps. (Scroll down to where it says _How to use_ and there will be a hyperlink to get an API key for the respective basemap.) While all these platforms are proprietary, you can create a free Mapbox account for an API key.  
+[Static Map Maker](https://staticmapmaker.com/mapbox/) allows you to easily create and download a static reference map by supplying copy-paste information for just a few parameters. You can choose from Bing, Google Maps, Google Street View, HERE, and MapQuest map backgrounds (aka basemaps). Once you've selected a basemap provider of your choice, you will notice the landing page says "authentication required". This means you _will_ need an API key (access token) to use any of the basemaps. While all these platforms are proprietary, you can create a free Mapbox account for an API key.  (Scroll down to where it says _How to use_ and there will be a hyperlink to get an API key for the respective basemap.)  
 
 
 ### Map Creator
-If you don't want to use a GIS yet want more aesthetic static maps than the above option can offer, [Mapcreator](https://mapcreator.io/) may be of interest. Web interface --> Paid subscription - tiers are all pricy. Can try a 14 day free trial. Notice that they are often using OpenStreetMap data, which is free and open source and can be freely used by you in either QGIS or MyOSMatic. 
+If you don't want to use a GIS yet want more aesthetic static maps than the above option can offer, [Mapcreator](https://mapcreator.io/) may be of interest. Mapcreater offers a web-based interface for designing and downloading maps. However, it works on a paid subscription with even the lowest tier being quite pricy. You can always try a 14-day free trial if you have a one-off project, or want to see if it is worth budgeting for in your project. Notice, however, that Mapcreater uses OpenStreetMap data. Remember that [OpenStreetMap (OSM)](https://www.openstreetmap.org/#map=2/71.3/-96.8) is free and open source, meaning you can freely use it to make reference maps on your own either in QGIS or MyOSMatic.
 
 
 ### Mapbox Studio
-https://docs.mapbox.com/help/dive-deeper/static-maps/
+[Mapbox](https://www.mapbox.com/), which is be further elaborated in **Resources for web mapping**, offers a service called [Mapbox Studio](https://docs.mapbox.com/help/dive-deeper/static-maps/) whereby you can create static and print maps from within a web-based interface. 
 
 
-
-<!-- ### Google Maps Platform
+<!-- ### Google Static Maps API
 https://developers.google.com/maps -->
 
+
+## Illustration Software
+
 ### Adobe Illustrator, GIMP, & Inkscape
-These are there illustration software. 
-Can download SVG vector data and work with in either. **[Adobe Illustrator](https://www.adobe.com/ca/products/illustrator.html)** is proprietary and costly. **[Inkscape](https://inkscape.org/release/inkscape-1.2.2/)** is a free and open-source alternative SVG editor. Steep learning curve if you are not familiar with interface such as Adobe Illustrator, but plenty of documentation online and handy tool to know. **[GIMP](https://www.gimp.org/)** - Free & Open Source Image Editor, akin to Adobe Photoshop. Can work with rasters here. 
+{: .no_toc}
+You can also use illustration software either to make an entire rudimentary map using SVG vector graphics, or to embellish an initial map produced with a GIS. **[Adobe Illustrator](https://www.adobe.com/ca/products/illustrator.html)** is proprietary and costly. **[Inkscape](https://inkscape.org/release/inkscape-1.2.2/)** is a free and open-source alternative SVG editor. Inkscape has a steep initial learning curve if you are not already familiar with an illustration software interface, but there's plenty of documentation online and it's a handy tool to know. **[GIMP](https://www.gimp.org/)** is a free and open-source image editor, akin to Adobe Photoshop. You can work with raster data in GIMP whereas it's more difficult to do so in Illustrator or Illustrator. However, if you're using a GIS like QGIS to edit and modify your data and simply using an illustration software for styling.  
 
 ----
 ## Resources for map design
