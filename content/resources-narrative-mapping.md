@@ -19,6 +19,9 @@ Resources
 - links to task specific plugins
 - links to tutorials and demos 
 
+[https://clhenrick.io/blog/csv-driven-story-map/](https://clhenrick.io/blog/csv-driven-story-map/)
+
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -134,7 +137,7 @@ More for timelines with auxiliary map to the side
 ### Examples 
 {: .no_toc}
 - [archeology of wine](https://timemapper.okfnlabs.org/adamrabinowitz/archaeowinetimeliner)
-[Medieval philosophers](https://timemapper.okfnlabs.org/okfn/medieval-philosophers)
+
 
 ### Resources
 - [Tutorial from Purdue University](https://library.pfw.edu/timemapper)

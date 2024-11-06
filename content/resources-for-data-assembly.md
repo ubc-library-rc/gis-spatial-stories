@@ -52,6 +52,15 @@ Whether you’re performing spatial analysis or making maps for yourself or a cl
 Explore UBC Library's compendium of data sources for Canada and the world [HERE](https://guides.library.ubc.ca/gis/datasources)
 
     
+https://www.maptiler.com/data/
+
+https://openmaptiles.org/docs/style/maputnik/
+
+https://stadiamaps.com/
+put also in web reseources 
+
+
+## Vector Data
 ### Municipal and Provincial Data 
 - [BC Data](https://catalogue.data.gov.bc.ca/)
 - [Administrative and Statistical Boundaries 2021 (e.g., provinces, census divisions, dissemination areas)](https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21)

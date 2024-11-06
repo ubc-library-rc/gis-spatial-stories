@@ -151,3 +151,12 @@ https://maplibre.org/maplibre-gl-js/docs/
 
 ## uMap
 [uMap](https://umap.openstreetmap.fr/en/): "uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site." is open source, free to use. can add data layers.
+
+
+    
+https://www.maptiler.com/data/
+
+https://openmaptiles.org/docs/style/maputnik/
+
+https://stadiamaps.com/
+put also in web reseources 
