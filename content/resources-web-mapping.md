@@ -19,6 +19,11 @@ This page will inventory a variety of platforms, tools, and resources for web ma
 
 ----
 
+
+## uMap
+[uMap](https://umap.openstreetmap.fr/en/): "uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site." uMap is open-source and free to use. You can even add data layers! It is very easy to use, but has little room for customization. It is an entirely web-based interface and requires no expertise to use.  
+
+
 ## Leaflet
 [Leaflet](https://leafletjs.com/) consists of JavaScript and CSS code libraries which power the ways your web browser interprets and interacts with geospatial data & displays colors and style. For instance, when you double click a map to zoom in, Leaflet is at work. When you add data to your map, Leaflet assigns it a default color. Leaflet is made up of only 38kb of Javascript, so it is really fast and lightweight - meaning browsers don’t have to work very hard to load it. 
 
@@ -27,59 +32,56 @@ This page will inventory a variety of platforms, tools, and resources for web ma
 > {: .no_toc}
 > - Leaflet is free and open source. For this reason, Leaflet is widely used. 
 - As an open-source code library, Leaflet is hugely customizable. This means you can re-mix the code all you want. 
-> - Leaflet is beginner friendly. 
-> - Hugely customizable code with ... [Here are some examples](https://leafletjs.com/plugins.html) of Leaflet-based plugins to give you some idea of the variety of added functionality that comes from the community of developers. 
+> - Leaflet is beginner friendly, though you do need to interact with code in order to build your map.
+> - Hugely customizable. Leaflet-based plugins to give you some idea of the variety of added functionality that comes from the community of developers. 
 > - In Leaflet, you can [change the CRS](https://leafletjs.com/reference.html#crs) of your map whereas the projection is set in Google Maps and Mapbox. 
 
 > #### Leaflet Disadvantages ⇣
 > {: .no_toc}
-> - need to work in code editor --> link to it! 
-> - 
+> - You'll need to work with code in a code editor. This can introduce a semi-steep learning curve, but you can truly create a basic webmap in a few hours with no prior knowledge. 
+> - You'll need a place to store your map and map data. Github can work. Think about how you'll be displaying your end product. Will it be embedded on a website? 
+<!--could do a tutorial thats like lets make a map and add data to github and make github page-->
 
 #### Resources for working with Leaflet
 {: .no_toc}
 - UBC Research Commons' [Introduction to Leaflet](https://ubc-library-rc.github.io/gis-intro-leaflet/)
 - [Leaflet Tutorials](https://leafletjs.com/examples.html) for getting started
 
-
 #### Plugins/tutorials for basic thematic mapping
 {: .no_toc}
 Plugins offer extended functionality, making leaflet hugely customizable.
 Here are some [example plugins](https://leafletjs.com/plugins.html) to give you some idea of the variety of added functionality that comes from the community of developers. 
 - [Heatmaps with Leaflet](https://leafletjs.com/plugins.html#heatmaps)
-- [Clustering](https://github.com/Leaflet/Leaflet.markercluster)
-> - [see example](https://leaflet.github.io/Leaflet.markercluster/example/marker-clustering-realworld.388.html)
+- [Clustering](https://github.com/Leaflet/Leaflet.markercluster), see this [example](https://leaflet.github.io/Leaflet.markercluster/example/marker-clustering-realworld.388.html)
 
-
-#### code for making dashboard / etc. 
+#### Code/documentation for making dashboards components  
 {: .no_toc}
-- [adding side panels/menus to leaflet map](https://unbam.github.io/Leaflet.SlideMenu/)
-- [another side bar example](https://github.com/noerw/leaflet-sidebar-v2)
-    > - [see demo here](https://noerw.github.io/leaflet-sidebar-v2/examples/)
-- [leaflet marker cluster](https://github.com/leaflet/Leaflet.markercluster)
-- [overlay layers control](https://leafletjs.com/examples/layers-control/)
+- [Adding side panels/menus to leaflet map](https://unbam.github.io/Leaflet.SlideMenu/)
+- [Another side bar example](https://github.com/noerw/leaflet-sidebar-v2); (see demo [here](https://noerw.github.io/leaflet-sidebar-v2/examples/))
+- [Leaflet marker cluster](https://github.com/leaflet/Leaflet.markercluster)
+- [Overlay layers control](https://leafletjs.com/examples/layers-control/)
 - Create a [side panel](https://github.com/maxwell-ilai/Leaflet.SidePanel) (scroll down to see [example](https://maxwell-ilai.github.io/Leaflet.SidePanel/examples/))
 
 ----
 
 ## Mapbox
-[Mapbox](https://www.mapbox.com/) is a robust Geospatial Software As A Service (saas) for developers, and includes products such as toolkits for mobile app development, navigation, web maps, and data management. Mapbox's service model is based on a paid subscription, but they offer a free service tier for those interested in using Mapbox products for learning. You will be asked to put in credit card information, however.  If this is your first time hearing about Mapbox, [How Mapbox Works](https://docs.mapbox.com/help/getting-started/) provides a great introduction.
+[Mapbox](https://www.mapbox.com/) is a robust Geospatial Software As A Service (saas) for developers, and includes products such as toolkits for mobile app development, navigation, web maps, and data management. Mapbox's service model is based on a paid subscription, but they offer a free service tier for those interested in using Mapbox products for learning. You will be asked to put in credit card information, however.  If this is your first time hearing about Mapbox, *[How Mapbox Works](https://docs.mapbox.com/help/getting-started/)* provides a great introduction.
 
 
 > #### Mapbox Advantages  ⇡
 > {: .no_toc}
-> - Custom style basemaps
-> - Can make webmaps with or without use of code --> Mapbox studio
+> - Platform for custom styling basemaps
+> - Variety of different services, including both code and web-based graphical user interface for web mapping
 
 > #### Mapbox Disadvantages ⇣
 > {: .no_toc}
-> - Proprietary. While there
-> - Free tier --> limitations
-> - Requires more knowledge to work in code --> less customizable
+> - Mapbox is proprietary, and the functions are not transposable between other webmapping libraries like Leaflet
+> - The Free Tier has limitations that might be of concern to you if you intend to make a map that will be widely viewed and cited
+<!-- > - Requires more knowledge to work in code --> less customizable -->
 
 #### Resources for working with Mapbox
 {: .no_toc}
-- UBC Research Commons' [Intro to Mapbox](https://ubc-library-rc.github.io/intro-mapbox/) workshop
+- UBC Research Commons' [Intro to webmapping with Mapbox](https://ubc-library-rc.github.io/intro-mapbox/) workshop
 - [Intro to Mapbox studio](https://docs.mapbox.com/studio-manual/guides/)
 - [Choropleth maps with Mapbox](https://labs.mapbox.com/education/thematic-map-types/choropleth/)
 - [Heatmaps with Mapbox Studio](https://docs.mapbox.com/help/tutorials/studio-heatmap-tutorial/)
@@ -93,70 +95,65 @@ is
 tiered subscription service with free option. 
 quick and easy option to convert spreadsheet data to thematic web map. 
  eg [make a choropleth map](https://www.zeemaps.com/world-of-maps/choropleth-map/) -->
+----
+## Jawg here?
 
+resources to use with code --> like jawg maps --> free tier you can create a leaflet map in one click! you dont need to tinker with its code or anything. 
+> can literally make free acount, then go to styles, go to use, and copy paste code into html document. helpful to take leaflet workshop first and you'll know what to do. Github workshop --> for hosting. link somewhere! 
 
 ----
-## QGIS to Web
+## Map Libre
+if you're code savvy... and leaflet and mapbox didn't pose substantial learning hurdles,... [MapLibre](https://maplibre.org/) might be of interest to you. 
+> "MapLibre GL JS is an open-source library for publishing maps on your websites or webview based apps. Fast displaying of maps is possible thanks to GPU-accelerated vector tile rendering.
 
-If you're familiar with QGIS, there's actually a plugin for turning your QGIS map into an interactive webmap, either powered by Leaflet or OpenLayers. This plugin is aptly called [qgis2web](https://plugins.qgis.org/plugins/qgis2web/). You just install the plugin, and then ensure your Field visibilities are set under layer --> propterties. However, you will need somewhere to store your map and map data. Github can work. 
-[interactive filters](https://digital-geography.com/qgis2web-with-interactive-filters/)
+> It originated as an open-source fork of mapbox-gl-js, before their switch to a non-OSS license in December 2020. The library's initial versions (1.x) were intended to be a drop-in replacement for the Mapbox’s OSS version (1.x) with additional functionality, but have evolved a lot since then."
 
-Example from Map Created by Workshop Author for BC Disaster Resilience Research Network:
+- Scroll down on [this page](https://github.com/maplibre/maplibre-gl-js) for documentation
+- Or [here](https://maplibre.org/maplibre-gl-js/docs/)
+
+----
+## QGIS --> Web
+
+If you're familiar with QGIS, there's actually a plugin for turning your QGIS map into an interactive webmap, either powered by Leaflet or OpenLayers. This plugin is aptly called [qgis2web](https://plugins.qgis.org/plugins/qgis2web/). You just install the plugin, and then ensure your Field visibilities are set under Layer Properties. However, you will need somewhere to store your map and map data, such as Github or a local server. Below is an example qgis2web made map created by the workshop author for BC Disaster Resilience Research Network:
   <iframe src="./reference/qgis2web/index.html" style="width:100%; height:600px;"></iframe>
 
+<!-- [interactive filters](https://digital-geography.com/qgis2web-with-interactive-filters/) -->
 
 ----
 ## ArcGIS Online
-[ArcGIS Online](https://www.arcgis.com/index.html) or (AGOL)
-is
-does
-As an Esri ArcGIS product, similar ArcGIS
+[ArcGIS Online](https://www.arcgis.com/index.html) or (AGOL) is Esri's online platform for making dynamic and interactive maps. If you are faculty or student at UBC, you can learn more about obtaining access [here](https://gis.ubc.ca/software/#:~:text=FOR%20STUDENT%20PERSONAL%20COMPUTERS&text=This%20%2420%20license%20includes%20ArcGIS,reduced%20cost%20is%20also%20available.&text=This%20is%20a%20non%2Drefundable,installed%20on%20personal%20computers%20only.).
 
 #### ArcGIS Online Advantages  ⇡
 {: .no_toc}
+> - Allows you to load and save data online, as well as create dynamic maps with customizable basemaps, popups, and interaction
 
 #### ArcGIS Online Disadvantages ⇣
 {: .no_toc}
+> - ArcGIS Online is proprietary, meaning it is not free to use.
+> - Licensing is a hassle, and collaboration can only occur between people who both own an active license. 
 
-----
+more? advantages and disadvantages?
+
+<!-- ----
 
 ## Google Maps 
+(or just omit this 'option'?)
+While Google Maps Platform offers a panoply of mapping tools including [dynamic maps](https://mapsplatform.google.com/maps-products/dynamic-maps/), you must be very careful about surreptitious charges. While the [embed maps API](https://developers.google.com/maps/documentation/embed/get-started?hl=en) is free with unlimited usage, you must sign up for Google Cloud. Google Cloud is only free for 90 days then will charge you $200 monthly. In our opinion, it is recommended to invest your time and energy in learning a free and open-source option like Leaflet.  -->
 
-> #### Google Maps Advantages  ⇡
-> {: .no_toc}
-> - easy, straightforward, free
-
-> #### Google Maps Disadvantages ⇣
-> {: .no_toc}
-> - 
 
 ----
 ## Felt
-[Felt](https://felt.com/) is... what its good for 
-has a free tier
+[Felt](https://felt.com/) is... what its good for integrating spatial datasests to aesthetic, interactive maps and dashboards.
+has a free tier that allows you to make and share unlimited webmaps, as well as automatic 14-day free trial of middle tier. 
 [see gallary](https://felt.com/gallery) for [examples](https://felt.com/map/Baltimore-City-Proposed-Land-Use-April-2024-DEElrNXBRICZ3XTKtmCYKD?loc=39.34342,-76.63756,13.9z). 
 
-----
-## map libre
-https://maplibre.org/
-https://github.com/maplibre/maplibre-gl-js
-https://maplibre.org/maplibre-gl-js/docs/
 
-> "MapLibre GL JS is an open-source library for publishing maps on your websites or webview based apps. Fast displaying of maps is possible thanks to GPU-accelerated vector tile rendering.
+### Map tiles... 
+[Map tiles](https://ubc-library-rc.github.io/gis-intro-leaflet/content/leaflet-basemap.html) are squares of geographic data that are loaded to your frame of view whenever you zoom or pan your map. Each tile is 256px by 256px (traditionally a .png image at roughly 20-40kb each), making them quick to load over an internet connection. These tiles provide a geographic reference for other data layers that you might add later (we’ll get to that in a minute). 
 
-  > It originated as an open-source fork of mapbox-gl-js, before their switch to a non-OSS license in December 2020. The library's initial versions (1.x) were intended to be a drop-in replacement for the Mapbox’s OSS version (1.x) with additional functionality, but have evolved a lot since then."
+There are some useful map tile services you should know of:
 
-
----- 
-
-## uMap
-[uMap](https://umap.openstreetmap.fr/en/): "uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site." is open source, free to use. can add data layers.
-
-
-    
-https://www.maptiler.com/data/
-
-https://openmaptiles.org/docs/style/maputnik/
-
-https://stadiamaps.com/
-put also in web reseources 
+- [Maptiler](https://www.maptiler.com/data/) 
+- [Open Map Tiles](https://openmaptiles.org/docs/style/maputnik/) offers open-source maps made for self-hosting, including free open street map vector tiles
+- [Basemap providers](https://leaflet-extras.github.io/leaflet-providers/preview/) for leaflet maps. You'll notice some maps require an API key or access token to use. Often you can create a free account on any of these platforms, like [Jawg maps](https://www.jawg.io/en/), and then use there basemaps. 
+- Stamen maps recently moved to [Stadia Maps](https://stadiamaps.com/). If you want to use their maps you just have to make an account to get access now
