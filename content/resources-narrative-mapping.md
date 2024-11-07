@@ -7,7 +7,9 @@ parent: Assembling Resources
 # Resources for Narrative Mapping 
 {: .no_toc}
 
-At a glance, 
+THIS PAGE IS STILL IN PROGRESS (fine to browse though)
+
+<!-- At a glance, 
 - what it is; useful for xyz
 - difficulty/learning curve
 - access/ open source or proprietary 
@@ -17,9 +19,12 @@ for all, give
 Resources
 - links to download tool
 - links to task specific plugins
-- links to tutorials and demos 
+- links to tutorials and demos  -->
 
 [https://clhenrick.io/blog/csv-driven-story-map/](https://clhenrick.io/blog/csv-driven-story-map/)
+
+
+
 
 
 <details open markdown="block">
@@ -90,7 +95,7 @@ Google Earth Tour Builder
 ----
 ### Knightlab StoryMap
 [knightlab StoryMap](https://storymap.knightlab.com/)
-Difficulty: Medium-High
+Difficulty: Low 
 Open Source
 Knightlab Storymaps JS open source
 displaying georeferenced map on knightlab [here](https://programminghistorian.org/en/lessons/displaying-georeferenced-map-knightlab-storymap-js)
