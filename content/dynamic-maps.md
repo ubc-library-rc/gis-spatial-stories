@@ -94,24 +94,22 @@ Narrative maps tell a story with images and text at locations, by a thread - per
 
 <iframe src="https://storymaps.arcgis.com/stories/4ab243f6d7b3490bbfa884d18a788236" style="width:100%; height:500px"></iframe>
 
-<iframe src="https://kamloops.maps.arcgis.com/apps/Shortlist/index.html?appid=96ba7bf46e4f45f484e872fd47c9a004" style="width:100%; height:500px"></iframe>
-
-
-
-
-- [Google Earth]
-Add a google story maps walking path example. 
-or leaflet --> maybe qgis incorperated. 
-
-https://www.google.com/maps/about/behind-the-scenes/streetview/treks/yosemite/#trek
-
-
-https://www.google.com/earth/outreach/learn/create-a-map-or-story-in-google-earth-web/
-
-
+<br>
 
 See an example [find the drift](https://uploads.knightlab.com/storymapjs/b238a6d62c46c28699e948c1e9d7abc7/findthedrift/index.html) map below. Made in an hour by the workshop author, with no prior knightlab experience. 
 <iframe src="https://uploads.knightlab.com/storymapjs/b238a6d62c46c28699e948c1e9d7abc7/findthedrift/index.html" frameborder="0" width="100%" height="600"></iframe>
+
+
+<!-- - [Google Earth]
+Add a google story maps walking path example. 
+or leaflet  maybe qgis incorperated. 
+
+https://www.google.com/maps/about/behind-the-scenes/streetview/treks/yosemite/#trek
+
+https://www.google.com/earth/outreach/learn/create-a-map-or-story-in-google-earth-web/ -->
+
+
+
 
 
 <!-- ### Interactive Dashboards 
