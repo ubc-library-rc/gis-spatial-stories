@@ -34,6 +34,10 @@ The **Assembling Resources** section of this workshop will explain the various p
 
 
 ### Reference Webmaps
+The most basic reference webmap is simply a basemap, contained in a viewbox with controls and an attribution at the bottom. 
+
+<iframe src="./reference/jawg-map.html" style="width:90%; height:450px; border:none;"> </iframe>
+
 Much like their static counterparts, reference webmaps can be as simple as a basemap with a drop-pin locator or a single data layer. Explore the interactive capabilities of each. 
 
 <iframe src="./reference/leaflet-reference-map.html" style="width:90%; height:450px; border:none;"> </iframe>
@@ -49,7 +53,8 @@ Some popular reference webmaps out there:
 
 
 *Maybe add an example that's like: a nice walk I took.*
-
+<br>
+----
 
 ### Thematic Webmaps 
 Thematic maps visualize the results of some spatial analysis. With a bit of code, you can create thematic webmaps. 
