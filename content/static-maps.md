@@ -37,12 +37,12 @@ Reference maps can simply show urban infrastructure in a specific area:
 <!-- See [Vancouver's bike map](https://vancouver.ca/files/cov/map-cycling-vancouver.pdf) for a handy reference guide to all the bike-friendly streets around the city. 
 <img src="./images/map-cycling-vancouver.png" style="width:100%"> -->
 
-### More reference map examples 
+<!-- ### More reference map examples 
 {: .no_toc}
 - 
 - 
 - 
-- 
+-  -->
 
     
 
@@ -92,5 +92,4 @@ A heatmap visualizes point data by occurrences. See below for an example.
 
 <br>
 <br>
-----
 
