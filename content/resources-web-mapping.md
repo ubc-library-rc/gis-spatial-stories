@@ -20,9 +20,23 @@ This page will inventory a variety of platforms, tools, and resources for web ma
 ----
 
 
-## uMap
-[uMap](https://umap.openstreetmap.fr/en/): "uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site." uMap is open-source and free to use. You can even add data layers! It is very easy to use, but has little room for customization. It is an entirely web-based interface and requires no expertise to use.  
+## Google MyMaps 
 
+We recommend Google Maps for its Google MyMaps service only. With Google MyMaps, you create simple maps with drop pin locations or imported data layers, like the below map: 
+<iframe src="https://www.google.com/maps/d/embed?mid=1aslINORADirq1Cx5_mRG4s2EO2OfxF4&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
+
+While Google Maps Platform offers a panoply of mapping tools including [dynamic maps](https://mapsplatform.google.com/maps-products/dynamic-maps/), you must be very careful about surreptitious charges. While the [embed maps API](https://developers.google.com/maps/documentation/embed/get-started?hl=en) is free with unlimited usage, you must sign up for Google Cloud. Google Cloud is only free for 90 days then will charge you $200 monthly. In our opinion, it is recommended to invest your time and energy in learning a free and open-source option like Leaflet. 
+
+----
+
+## uMap
+[uMap](https://umap.openstreetmap.fr/en/): "uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site." uMap is open-source and free to use. You can choose from a variety of basemaps, and even upload and add data layers of your own! It is very easy to use, but has little room for customization. It is an entirely web-based interface and requires no prior expertise. 
+
+The below map was created in 5 minutes using data downloaded from Vancouver [open data portal](https://opendata.vancouver.ca/explore/dataset/parks-polygon-representation/information/). 
+
+<iframe src="https://umap.openstreetmap.fr/en/map/map-of-vancouver-public-parks_1137797#12/49.2492/-123.1389" style="width:100%; height:500px"></iframe>
+
+----
 
 ## Leaflet
 [Leaflet](https://leafletjs.com/) consists of JavaScript and CSS code libraries which power the ways your web browser interprets and interacts with geospatial data & displays colors and style. For instance, when you double click a map to zoom in, Leaflet is at work. When you add data to your map, Leaflet assigns it a default color. Leaflet is made up of only 38kb of Javascript, so it is really fast and lightweight - meaning browsers don’t have to work very hard to load it. 
@@ -46,11 +60,7 @@ This page will inventory a variety of platforms, tools, and resources for web ma
 {: .no_toc}
 - UBC Research Commons' [Introduction to Leaflet](https://ubc-library-rc.github.io/gis-intro-leaflet/)
 - [Leaflet Tutorials](https://leafletjs.com/examples.html) for getting started
-
-#### Plugins/tutorials for basic thematic mapping
-{: .no_toc}
-Plugins offer extended functionality, making leaflet hugely customizable.
-Here are some [example plugins](https://leafletjs.com/plugins.html) to give you some idea of the variety of added functionality that comes from the community of developers. 
+- [Plugins](https://leafletjs.com/plugins.html) offer extended functionality, making leaflet hugely customizable. Below are some plugins to give you some idea of the variety of added functionality that comes from the community of developers. 
 - [Heatmaps with Leaflet](https://leafletjs.com/plugins.html#heatmaps)
 - [Clustering](https://github.com/Leaflet/Leaflet.markercluster), see this [example](https://leaflet.github.io/Leaflet.markercluster/example/marker-clustering-realworld.388.html)
 
@@ -62,11 +72,20 @@ Here are some [example plugins](https://leafletjs.com/plugins.html) to give you 
 - [Overlay layers control](https://leafletjs.com/examples/layers-control/)
 - Create a [side panel](https://github.com/maxwell-ilai/Leaflet.SidePanel) (scroll down to see [example](https://maxwell-ilai.github.io/Leaflet.SidePanel/examples/))
 
+The below maps displayed earlier on in this workshop were all made using leaflet:
+
+<iframe src="./reference/leaflet-reference-map.html" style="width:90%; height:450px; border:none;"> </iframe>
+
+<iframe src="./reference/leaflet-choropleth-map.html" style="width:90%; height:400px; border:none;"> </iframe>
+
+<iframe src="./reference/leaflet-proportional-symbol-map.html" style="width:90%; height:450px; border:none; "></iframe>
+
+<iframe src="./reference/leaflet-cluster-map.html" style="width:90%; height:450px; border:none;"> </iframe>
+
 ----
 
 ## Mapbox
 [Mapbox](https://www.mapbox.com/) is a robust Geospatial Software As A Service (saas) for developers, and includes products such as toolkits for mobile app development, navigation, web maps, and data management. Mapbox's service model is based on a paid subscription, but they offer a free service tier for those interested in using Mapbox products for learning. You will be asked to put in credit card information, however.  If this is your first time hearing about Mapbox, *[How Mapbox Works](https://docs.mapbox.com/help/getting-started/)* provides a great introduction.
-
 
 > #### Mapbox Advantages  ⇡
 > {: .no_toc}
@@ -88,15 +107,14 @@ Here are some [example plugins](https://leafletjs.com/plugins.html) to give you 
 - [Dot Density maps with Mapbox](https://labs.mapbox.com/education/thematic-map-types/dot-density/)
 - [Graduated Symbol maps with Mapbox](https://labs.mapbox.com/education/thematic-map-types/graduated-points/)
 
-<!-- ----
-## Zee Maps
-[ZeeMaps](https://www.zeemaps.com/)
-is 
-tiered subscription service with free option. 
-quick and easy option to convert spreadsheet data to thematic web map. 
- eg [make a choropleth map](https://www.zeemaps.com/world-of-maps/choropleth-map/) -->
+
+Below is an example of a cluster map made with mapbox:
+
+<iframe src="./reference/mapbox-cluster-map.html" style="width:90%; height:400px; border:none; "></iframe>
+
 ----
-## Jawg here?
+
+## Jawg 
 
 resources to use with code --> like jawg maps --> free tier you can create a leaflet map in one click! you dont need to tinker with its code or anything. 
 > can literally make free acount, then go to styles, go to use, and copy paste code into html document. helpful to take leaflet workshop first and you'll know what to do. Github workshop --> for hosting. link somewhere! 
@@ -132,27 +150,18 @@ If you're familiar with QGIS, there's actually a plugin for turning your QGIS ma
 > - ArcGIS Online is proprietary, meaning it is not free to use.
 > - Licensing is a hassle, and collaboration can only occur between people who both own an active license. 
 
-more? advantages and disadvantages?
-
-<!-- ----
-
-## Google Maps 
-(or just omit this 'option'?)
-While Google Maps Platform offers a panoply of mapping tools including [dynamic maps](https://mapsplatform.google.com/maps-products/dynamic-maps/), you must be very careful about surreptitious charges. While the [embed maps API](https://developers.google.com/maps/documentation/embed/get-started?hl=en) is free with unlimited usage, you must sign up for Google Cloud. Google Cloud is only free for 90 days then will charge you $200 monthly. In our opinion, it is recommended to invest your time and energy in learning a free and open-source option like Leaflet.  -->
-
-
 ----
 ## Felt
 [Felt](https://felt.com/) is... what its good for integrating spatial datasests to aesthetic, interactive maps and dashboards.
 has a free tier that allows you to make and share unlimited webmaps, as well as automatic 14-day free trial of middle tier. 
 [see gallary](https://felt.com/gallery) for [examples](https://felt.com/map/Baltimore-City-Proposed-Land-Use-April-2024-DEElrNXBRICZ3XTKtmCYKD?loc=39.34342,-76.63756,13.9z). 
 
+----
 
-### Map tiles... 
+## Map tiles
 [Map tiles](https://ubc-library-rc.github.io/gis-intro-leaflet/content/leaflet-basemap.html) are squares of geographic data that are loaded to your frame of view whenever you zoom or pan your map. Each tile is 256px by 256px (traditionally a .png image at roughly 20-40kb each), making them quick to load over an internet connection. These tiles provide a geographic reference for other data layers that you might add later (we’ll get to that in a minute). 
 
 There are some useful map tile services you should know of:
-
 - [Maptiler](https://www.maptiler.com/data/) 
 - [Open Map Tiles](https://openmaptiles.org/docs/style/maputnik/) offers open-source maps made for self-hosting, including free open street map vector tiles
 - [Basemap providers](https://leaflet-extras.github.io/leaflet-providers/preview/) for leaflet maps. You'll notice some maps require an API key or access token to use. Often you can create a free account on any of these platforms, like [Jawg maps](https://www.jawg.io/en/), and then use there basemaps. 
