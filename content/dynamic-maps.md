@@ -72,42 +72,34 @@ Thematic maps visualize the results of some spatial analysis. With a bit of code
 <iframe src="./reference/mapbox-cluster-map.html" style="width:90%; height:400px; border:none; "></iframe>
 
 
-<sub>[See below proportional symbol map example as full-page map](./reference/leaflet-proportional-symbol-map.html)</sub> Hover over the circles to learn the municipality population for Vancouver Island.
+<sub>[See below proportional symbol map example as full-page map](./reference/leaflet-proportional-symbol-map.html)</sub><br> Hover over the circles to learn the municipality population for Vancouver Island.
 <iframe src="./reference/leaflet-proportional-symbol-map.html" style="width:90%; height:450px; border:none; "></iframe>
 
 
 ---
 ## Narrative Maps  
-Narrative maps tell a story with images and text at locations, by a thread - perhaps linear. changing frame brings the visitor on a journey. For example, a timeline, a travel voyage. Below are some examples by different hosting platforms. Assembling Resources section will go further into advantages and disadvantages of each. 
+Narrative maps use multimedia to tell a story that moves (often linearly) through locations. Narrative maps bring the visiter on a dynamic journey. Examples of stories that could be told with a narrative map include timelines, travels, and voyages. Below are a sampling of narrative maps made with different platforms. The **Assembling Resources** section will go further into advantages and disadvantages of each platform. 
 
 
-- [Canada's Deforestation monitoring storymap](https://ca.nfis.org/ndms/ndms_overview_eng.html)
+>[Monitering Canada's deforestation](https://ca.nfis.org/ndms/ndms_overview_eng.html) | This example is an educational narrative on deforestation. It was made using [Knightlab StoryMap](https://storymap.knightlab.com/), a free and easy platform to use. 
 
-- [Ancient Rome in Chicago](https://s3.amazonaws.com/uploads.knightlab.com/storymapjs/783a09de8300e1b5f74b99b99acb08ef/ancient-rome-in-chicago/index.html) 
+> [Ancient Rome in Chicago](https://s3.amazonaws.com/uploads.knightlab.com/storymapjs/783a09de8300e1b5f74b99b99acb08ef/ancient-rome-in-chicago/index.html) | This example shows a story of Roman Architecture in Chicago by embedding multimedia at certain geographic locations. This narrative map was also made using [Knightlab StoryMap](https://storymap.knightlab.com/), a free and easy platform to use. 
 
-- [Urban Tree tour](https://kamloops.maps.arcgis.com/apps/Shortlist/index.html?appid=96ba7bf46e4f45f484e872fd47c9a004) 
+> [Kamloops Urban Tree tour](https://kamloops.maps.arcgis.com/apps/Shortlist/index.html?appid=96ba7bf46e4f45f484e872fd47c9a004) | This example shows an [ArcGIS Online](https://www.arcgis.com/index.html) powered webmap whose pop-ups are displayed in large-format on one side of the screen. However, you are not really taken on a 'tour' so much as invited to click the locations in numerical order. ArcGIS Online is a proprietary software requiring a somewhat expensive license. 
 
-- [Isolation Psychogeography](https://storymaps.arcgis.com/stories/4ab243f6d7b3490bbfa884d18a788236)
+> [City of Abbotsford](https://storymaps.arcgis.com/stories/9d2a3452e2a141399ae6226a627b4a36) | This is an [ArcGIS StoryMap](https://storymaps.arcgis.com/) visualizing information about the City of Abbotsford. It integrates text, multimedia, and dynamic maps.
 
+> [Isolation Psychogeography](https://storymaps.arcgis.com/stories/4ab243f6d7b3490bbfa884d18a788236) | This [ArcGIS StoryMap](https://storymaps.arcgis.com/) was made by the workshop author in 2021 to document time spend in nature during pandemic lockdown. It includes multimedia as well as narrated journeys. ArcGIS StoryMaps require an ArcGIS Online license to use, which can be costly if you are not a UBC student. 
 
-- [archeology of wine](https://timemapper.okfnlabs.org/adamrabinowitz/archaeowinetimeliner)
+>[Find the drift](https://uploads.knightlab.com/storymapjs/b238a6d62c46c28699e948c1e9d7abc7/findthedrift/index.html) | This is another example of a [Knightlab StoryMap](https://storymap.knightlab.com/), made by the workshop author in 2 hours with no prior experience with the software. Knightlab is free, easy to use, and creates decent narratives with minimal expertise required. 
+
+>[Archeology of wine](https://timemapper.okfnlabs.org/adamrabinowitz/archaeowinetimeliner) | This example shows a split screen with text, an interactive web map, and a timeline below. It is made with [TimeMapper](https://timemapper.okfnlabs.org/), a free and easy to use software.  
 
 <iframe src="https://storymaps.arcgis.com/stories/4ab243f6d7b3490bbfa884d18a788236" style="width:100%; height:500px"></iframe>
 
 <br>
 
-See an example [find the drift](https://uploads.knightlab.com/storymapjs/b238a6d62c46c28699e948c1e9d7abc7/findthedrift/index.html) map below. Made in an hour by the workshop author, with no prior knightlab experience. 
 <iframe src="https://uploads.knightlab.com/storymapjs/b238a6d62c46c28699e948c1e9d7abc7/findthedrift/index.html" frameborder="0" width="100%" height="600"></iframe>
-
-
-<!-- - [Google Earth]
-Add a google story maps walking path example. 
-or leaflet  maybe qgis incorperated. 
-
-https://www.google.com/maps/about/behind-the-scenes/streetview/treks/yosemite/#trek
-
-https://www.google.com/earth/outreach/learn/create-a-map-or-story-in-google-earth-web/ -->
-
 
 
 
