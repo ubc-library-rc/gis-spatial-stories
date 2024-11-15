@@ -147,8 +147,8 @@ If you're familiar with QGIS, there's actually a nifty plugin for turning your Q
 
 #### ArcGIS Online Disadvantages ⇣
 {: .no_toc}
-> - ArcGIS Online is proprietary, meaning it is not free to use.
-> - Licensing is a hassle, and collaboration can only occur between people who both own an active license. 
+> - ArcGIS Online is proprietary, meaning it is not free to use
+> - Licensing is a hassle, and collaboration can only occur between people who both own an active license
 
 ----
 ## Felt
