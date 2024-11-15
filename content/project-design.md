@@ -8,17 +8,17 @@ nav_order: 2
 # Project Design 
 {: .no_toc}
 
-The purpose of this workshop is to guide you through exploring the spatial aspect of your data so as to tell a story. Depending on your data and overarching project, you will begin with a varying degree of certainty around what story you want to tell and how you will go about composing it. Therefore, we will begin by asking some questions to articulate the objectives, constraints, and resources you are working with. This, in turn, will help you decide on an output format and the best tools to make it happen. 
+The purpose of this workshop is to guide you through exploring the spatial aspect of your data so as to tell a story. Depending on your data and overarching project, right now you may have a varying degree of certainty around what story you want to tell and how you will go about composing it. Therefore, we let's start by asking some questions to articulate the objectives, constraints, and resources you are working with. This, in turn, will help you decide on an output format and the best tools to make it happen. 
 
-As you reflect on the following questions, it can be helpful to write down your answers to refer to later. If useful for you, a Project Design Worksheet may be downloaded here:
+As you reflect on the following questions, it can be helpful to write down your answers to refer to later. If this sounds useful useful for you, a Project Design Worksheet can be downloaded here:
 [Microsoft .docx version](./project-design-worksheet.docx) |  [Text file version](./project-design-worksheet.rtf)
-<!--text file download doesnt work for some reason-->
+
 
 <br>
 
 <details open markdown="block">
   <summary>
-    Table of contents
+    On this page:
   </summary>
   {: .text-delta }
  - TOC
@@ -46,7 +46,7 @@ Constraints, such as those around time and resources, limit what you can do. How
   > - What skills do you have that are relevant to the project you are undertaking? Do you have time/interest/capacity to learn new skills? Reflecting on just how much energy you can put into the project at hand will guide you in choosing what tools/platforms to use in constructing your spatial story.
 
 ----
-_The next steps will be further outlined in the following pages_
+_The next steps will be further outlined by the following pages_
 
 ---- 
 
@@ -83,4 +83,4 @@ After you have a sense of your objectives, constraints, and intended output form
 ----
 #### Resources for Project Design
 {: .no_toc}
-Finally, it is useful to make a list of resources that can support you along your journey. This could be tutorials, colleagues, supervisors, or consultants. UBC Library Research Commons offers 1:1 and group consultations for GIS related questions, as well as questions regarding Data Analysis, Digital Scholarship, Citation Management: [Book a consult here](https://libcal.library.ubc.ca/appointments/research_commons). There are also numerous workshops from all of these clusters you can work through asynchronously: [see workshop archive here](https://ubc-library-rc.github.io/). Keep in mind consultations offered through the Research Commons are aimed at assisting you as you work through your project rather than creating a methodology for you. 
+Finally, it is useful to make a list of resources that can support you along your journey. This could be tutorials, colleagues, supervisors, or consultants. UBC Library Research Commons offers 1:1 and group consultations for GIS related questions, as well as questions regarding Data Analysis, Digital Scholarship, and Citation Management: [Book a consult here](https://libcal.library.ubc.ca/appointments/research_commons). There are also numerous workshops from all of these clusters you can work through asynchronously: [see workshop archive here](https://ubc-library-rc.github.io/). Keep in mind consultations offered through the Research Commons are aimed at assisting you as you work through your project rather than creating a methodology *for* you. 
