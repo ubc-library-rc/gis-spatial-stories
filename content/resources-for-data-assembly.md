@@ -24,7 +24,9 @@ It's now time to assemble your data. Take a moment to inventory what you have, a
 
 > - Do you have physical or historical maps as part of your project? Do you need to scan them? If you're planning on using them in any way other than as decorative/informative archival images, you'll want to look into georeferencing. 
 
-Below are some resources for finding more data or creating your own. 
+<br>
+<!-- Below are some resources for finding more data or creating your own.  -->
+
 
 <details open markdown="block">
   <summary>
@@ -34,6 +36,7 @@ Below are some resources for finding more data or creating your own.
  - TOC
 {:toc}
 </details>
+
 ----
 
 ## Considerations for assembling data
@@ -62,10 +65,7 @@ A Geographic Information System (GIS) works with data that is tied to a location
 ## Finding geospatial data
 
 
-
-### Vector Data
-{: .no_toc}
-### Municipal and Provincial Data 
+### Municipal and Provincial Vector Data 
 {: .no_toc}
 - [BC Data](https://catalogue.data.gov.bc.ca/)
 - [Administrative and Statistical Boundaries 2021 ](https://www12.statcan.gc.ca/census-recensement/2021/geo/sip-pis/boundary-limites/index2021-eng.cfm?year=21)(e.g., provinces, census divisions, dissemination areas)
