@@ -6,11 +6,11 @@ parent: Assembling Resources
 ---
 # Resources for web mapping 
 {: .no_toc}
-This page will inventory a variety of platforms, tools, and resources for web mapping. 
+This page inventories and evaluates a variety of platforms, tools, and resources for web mapping. 
 
 <details open markdown="block">
   <summary>
-    Table of contents
+    On this page:
   </summary>
   {: .text-delta }
  - TOC
@@ -22,15 +22,15 @@ This page will inventory a variety of platforms, tools, and resources for web ma
 
 ## Google MyMaps 
 
-We recommend Google Maps for its Google MyMaps service only. With Google MyMaps, you create simple maps with drop pin locations or imported data layers, like the below map: 
+We recommend Google Maps for its Google MyMaps service *only*. With Google MyMaps, you create simple maps with drop pin locations or imported data layers, like the below map: 
 <iframe src="https://www.google.com/maps/d/embed?mid=1aslINORADirq1Cx5_mRG4s2EO2OfxF4&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
 
-While Google Maps Platform offers a panoply of mapping tools including [dynamic maps](https://mapsplatform.google.com/maps-products/dynamic-maps/), you must be very careful about surreptitious charges. While the [embed maps API](https://developers.google.com/maps/documentation/embed/get-started?hl=en) is free with unlimited usage, you must sign up for Google Cloud. Google Cloud is only free for 90 days then will charge you $200 monthly. In our opinion, it is recommended to invest your time and energy in learning a free and open-source option like Leaflet. 
+While the Google Maps Platform offers a panoply of mapping tools including [dynamic maps](https://mapsplatform.google.com/maps-products/dynamic-maps/), you must be very careful about surreptitious charges. For example, while the [embed maps API](https://developers.google.com/maps/documentation/embed/get-started?hl=en) is free with unlimited usage, you must sign up for Google Cloud. Google Cloud is only free for 90 days then will charge you $200 monthly. In our opinion, it is recommended to invest your time and energy in learning a free and open-source option like uMap or Leaflet. 
 
 ----
 
 ## uMap
-[uMap](https://umap.openstreetmap.fr/en/): "uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site." uMap is open-source and free to use. You can choose from a variety of basemaps, and even upload and add data layers of your own! It is very easy to use, but has little room for customization. It is an entirely web-based interface and requires no prior expertise. 
+[uMap](https://umap.openstreetmap.fr/en/) is a free and open-source platform that allows you to create webmaps using OpenStreetMap (OSM) data. You can then embed these maps into a website, or simply share the link with collaborators and audiences. You can choose from a variety of basemaps, and even upload and add data layers of your own! uMap is very easy to use, but has little room for customization. It is an entirely web-based interface and requires no prior expertise. 
 
 The below map was created in 5 minutes using data downloaded from Vancouver [open data portal](https://opendata.vancouver.ca/explore/dataset/parks-polygon-representation/information/). 
 
@@ -85,7 +85,7 @@ The below maps displayed earlier on in this workshop were all made using leaflet
 ----
 
 ## Mapbox
-[Mapbox](https://www.mapbox.com/) is a robust Geospatial Software As A Service (saas) for developers, and includes products such as toolkits for mobile app development, navigation, web maps, and data management. Mapbox's service model is based on a paid subscription, but they offer a free service tier for those interested in using Mapbox products for learning. You will be asked to put in credit card information, however.  If this is your first time hearing about Mapbox, *[How Mapbox Works](https://docs.mapbox.com/help/getting-started/)* provides a great introduction.
+[Mapbox](https://www.mapbox.com/) is a robust Geospatial **S**oftware **A**s **A** **S**ervice (saas) for developers, and includes products such as toolkits for mobile app development, navigation, web maps, and data management. Mapbox's service model is based on a paid subscription, but they offer a free service tier for those interested in using Mapbox products for learning. You will be asked to put in credit card information, however.  If this is your first time hearing about Mapbox, *[How Mapbox Works](https://docs.mapbox.com/help/getting-started/)* provides a great introduction.
 
 > #### Mapbox Advantages  ⇡
 > {: .no_toc}
@@ -96,7 +96,7 @@ The below maps displayed earlier on in this workshop were all made using leaflet
 > {: .no_toc}
 > - Mapbox is proprietary, and the functions are not transposable between other webmapping libraries like Leaflet
 > - The Free Tier has limitations that might be of concern to you if you intend to make a map that will be widely viewed and cited
-<!-- > - Requires more knowledge to work in code --> less customizable -->
+> - Though you can make maps in Mapbox Studio, developing more custom webmaps requires working with code. Even then, Leaflet can often be more customizable because it is open-source and there is more code out there to draw from. 
 
 #### Resources for working with Mapbox
 {: .no_toc}
@@ -116,23 +116,23 @@ Below is an example of a cluster map made with mapbox:
 
 ## Jawg 
 
-resources to use with code --> like jawg maps --> free tier you can create a leaflet map in one click! you dont need to tinker with its code or anything. 
-> can literally make free acount, then go to styles, go to use, and copy paste code into html document. helpful to take leaflet workshop first and you'll know what to do. Github workshop --> for hosting. link somewhere! 
+With [Jawg](https://www.jawg.io/en/), you can create simple reference maps powered by leaflet with just a few clicks. No tinkering, no coding, just copy paste your new map into a website! Jawg has a handful of [basemaps](https://www.jawg.io/en/maps/) to choose from, and you can even create your own style. The free tier offers quite a lot and is likely enough to get you started. If you want your webmap to stand alone rather than be embedded in a website, look into GitHub Pages. The Research Common's workshop website on [git and github](https://ubc-library-rc.github.io/intro-git/content/04_github.html) may be helpful to get started. 
+
+<iframe src="./reference/jawg-map.html" style="width:90%; height:450px; border:none;"> </iframe>
 
 ----
 ## Map Libre
-if you're code savvy... and leaflet and mapbox didn't pose substantial learning hurdles,... [MapLibre](https://maplibre.org/) might be of interest to you. 
-> "MapLibre GL JS is an open-source library for publishing maps on your websites or webview based apps. Fast displaying of maps is possible thanks to GPU-accelerated vector tile rendering.
+If you are already code savvy, [MapLibre](https://maplibre.org/) may be of interest to you. In their own words, 
+> MapLibre GL JS is an open-source library for publishing maps on your websites or webview based apps. Fast displaying of maps is possible thanks to GPU-accelerated vector tile rendering.
 
-> It originated as an open-source fork of mapbox-gl-js, before their switch to a non-OSS license in December 2020. The library's initial versions (1.x) were intended to be a drop-in replacement for the Mapbox’s OSS version (1.x) with additional functionality, but have evolved a lot since then."
+> It originated as an open-source fork of mapbox-gl-js, before their switch to a non-OSS license in December 2020. The library's initial versions (1.x) were intended to be a drop-in replacement for the Mapbox’s OSS version (1.x) with additional functionality, but have evolved a lot since then.
 
-- Scroll down on [this page](https://github.com/maplibre/maplibre-gl-js) for documentation
-- Or [here](https://maplibre.org/maplibre-gl-js/docs/)
+Scroll down on [this page](https://maplibre.org/maplibre-gl-js/docs/) for more information, or view their [Github documentation](https://github.com/maplibre/maplibre-gl-js).
 
 ----
 ## QGIS --> Web
 
-If you're familiar with QGIS, there's actually a plugin for turning your QGIS map into an interactive webmap, either powered by Leaflet or OpenLayers. This plugin is aptly called [qgis2web](https://plugins.qgis.org/plugins/qgis2web/). You just install the plugin, and then ensure your Field visibilities are set under Layer Properties. However, you will need somewhere to store your map and map data, such as Github or a local server. Below is an example qgis2web made map created by the workshop author for BC Disaster Resilience Research Network:
+If you're familiar with QGIS, there's actually a nifty plugin for turning your QGIS map into an interactive webmap, either powered by Leaflet or OpenLayers. This plugin is aptly called [qgis2web](https://plugins.qgis.org/plugins/qgis2web/). You just install the plugin, and then ensure your Field visibilities are set under Layer Properties. However, you will need somewhere to store your map and map data, such as Github or a local server. Below is an example qgis2web made map created by the workshop author for BC Disaster Resilience Research Network:
   <iframe src="./reference/qgis2web/index.html" style="width:100%; height:600px;"></iframe>
 
 <!-- [interactive filters](https://digital-geography.com/qgis2web-with-interactive-filters/) -->
@@ -152,9 +152,8 @@ If you're familiar with QGIS, there's actually a plugin for turning your QGIS ma
 
 ----
 ## Felt
-[Felt](https://felt.com/) is... what its good for integrating spatial datasests to aesthetic, interactive maps and dashboards.
-has a free tier that allows you to make and share unlimited webmaps, as well as automatic 14-day free trial of middle tier. 
-[see gallary](https://felt.com/gallery) for [examples](https://felt.com/map/Baltimore-City-Proposed-Land-Use-April-2024-DEElrNXBRICZ3XTKtmCYKD?loc=39.34342,-76.63756,13.9z). 
+[Felt](https://felt.com/) is a web-based platform for creating aesthetic, interactive maps and dashboards with your data. They offer a free tier that allows you to make and share unlimited webmaps, as well as automatic 14-day free trial of middle tier. 
+Checkout their [gallary](https://felt.com/gallery) to get inspired by their [examples](https://felt.com/map/Baltimore-City-Proposed-Land-Use-April-2024-DEElrNXBRICZ3XTKtmCYKD?loc=39.34342,-76.63756,13.9z). 
 
 ----
 
