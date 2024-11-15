@@ -3,8 +3,6 @@ layout: default
 title: Introduction
 nav_order: 1
 ---
-#### this workshop is in development and not yet complete.
-{: .warn}
 
 # Telling Spatial Stories with Data
     
