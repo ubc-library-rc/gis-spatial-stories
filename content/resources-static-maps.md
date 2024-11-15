@@ -26,7 +26,7 @@ This page will inventory a variety of platforms, tools, and resources for making
 ### QGIS
 [QGIS](https://qgis.org/) is a popular desktop GIS software, and considered a **f**ree and **o**pen **s**ource **s**oftware **(FOSS)** with a very active development community. QGIS can be downloaded from [qgis.org/download/](https://qgis.org/download/). In most cases, you’ll want to download and install the Long Term Release (LTR) instead of the latest release. This will give you most of the functionality you’ll need, without encountering the software bugs of newly released versions.
 
-The best way to learn QGIS is through experience and hands-on practice. QGIS comes with a medium learning curve, especially if you've never used a GIS before. However, don't let this dissuade you! There is a an abundance of QGIS-official and unofficial documentation on the internet in the form of tutorials and youtube demonstrations. This means you can tailer your learning experience to specifically what you want to do. 
+The best way to learn QGIS is through the experience that comes with hands-on practice. QGIS has with a medium learning curve, especially if you've never used a GIS before. However, don't let this dissuade you! There is a an abundance of QGIS-official and unofficial documentation on the internet in the form of tutorials and youtube demonstrations. This means you can tailer your learning experience to your interests and the specific needs of your project.
 
 > #### QGIS Advantages  ⇡
 > {: .no_toc}
@@ -51,7 +51,9 @@ The best way to learn QGIS is through experience and hands-on practice. QGIS com
 <!-- - [making a heatmap in QGIS](https://www.qgistutorials.com/en/docs/3/creating_heatmaps.html) -->
     
 <br>
+
 ### ArcGIS Pro 
+
 [ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview) is a proprietary desktop GIS that requires either a personal or institutional license. If you are faculty or student at UBC, you can learn more about obtaining access [here](https://gis.ubc.ca/software/#:~:text=FOR%20STUDENT%20PERSONAL%20COMPUTERS&text=This%20%2420%20license%20includes%20ArcGIS,reduced%20cost%20is%20also%20available.&text=This%20is%20a%20non%2Drefundable,installed%20on%20personal%20computers%20only.). ArcGIS has a medium learning curve. There is moderate documentation online, though many of the training courses & books Esri offers require payment to attend.
 
 
@@ -70,7 +72,7 @@ The best way to learn QGIS is through experience and hands-on practice. QGIS com
 
 ### Other open-source GIS platforms
 {: .no_toc}
-While this workshop favors QGIS and the Research Commons exclusively runs QGIS workshops, [Open Jump GIS](https://www.openjump.org/) and [Grass GIS](https://grass.osgeo.org/) are two other open-source GIS platforms out there. 
+While this workshop favors QGIS and the Research Commons exclusively runs QGIS workshops, [Grass GIS](https://grass.osgeo.org/) and [Open Jump GIS](https://www.openjump.org/) are two other open-source GIS platforms out there. 
 
 
 ----
@@ -80,12 +82,12 @@ While this workshop favors QGIS and the Research Commons exclusively runs QGIS w
 If you just want a quick reference map but don't want to use a GIS, you have a couple of options. 
 
 ### MyOSMatic
-"MapOSMatic is a free software webservice to generate maps of cities using OpenStreetMap data". [MapOSMatic](https://print.get-map.org/) allows you to create basic reference maps with just a few clicks. It is very easy to use, but has little room for customization. It is an entirely web-based interface and requires no prior expertise. See below for an example.
+"MapOSMatic is a free software webservice to generate maps of cities using OpenStreetMap data". [MapOSMatic](https://print.get-map.org/) allows you to create basic reference maps with just a few clicks. It is very easy to use, but has little room for customization. It is an entirely web-based interface and requires no prior expertise. The maps below were created in minutes using MyOSMatic. 
 
 <img src="./reference/myosm-local-area-map.png" style="width:50%"><img src="./reference/myosm-granville-bridge.png" style="width:48%">
 
 ### Static Map Maker
-[Static Map Maker](https://staticmapmaker.com/mapbox/) allows you to easily create and download a static reference map by supplying copy-paste information for just a few parameters. You can choose from Bing, Google Maps, Google Street View, HERE, and MapQuest map backgrounds (aka basemaps). Once you've selected a basemap provider of your choice, you will notice the landing page says "authentication required". This means you _will_ need an API key (access token) to use any of the basemaps. While all these platforms are proprietary, you can create a free Mapbox or HERE account for an API key.  (Scroll down to where it says _How to use_ and there will be a hyperlink to get an API key for the respective basemap.) See examples below:
+[Static Map Maker](https://staticmapmaker.com/mapbox/) allows you to easily create and download a static reference map by supplying copy-paste information for just a few parameters. You can choose from Bing, Google Maps, Google Street View, HERE, and MapQuest map backgrounds (aka basemaps). Once you've selected a basemap provider of your choice, you will notice the landing page says "authentication required". This means you _will_ need an API key (access token) to use any of the basemaps. While all these platforms are proprietary, you can create a free Mapbox or HERE account for an API key.  (Scroll down to where it says _How to use_ and there will be a hyperlink to get an API key for the respective basemap.) The below maps were created in minutes using Static Map Maker with a Mapbox api key.
 
 <img width="600" src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9/static/-123.1344691167005, 49.27065219090755,13.75,0,0/600x300@2x?attribution=true&logo=true&access_token=pk.eyJ1IjoibGlseWRlbWV0IiwiYSI6ImNsazcyZ25zdjAzemwzcm1ydnNybmkwb2EifQ.ggoNMtZ32x8wK-tGYFOCDg" alt="Mapbox map of -123.1344691167005, 49.27065219090755"/>
 
@@ -107,9 +109,9 @@ If you don't want to use a GIS yet want more aesthetic static maps than the abov
 
 ### Adobe Illustrator, GIMP, & Inkscape
 {: .no_toc}
-You can also use illustration software either to make an entire rudimentary map using SVG vector graphics, or to embellish an initial map produced with a GIS. **[Adobe Illustrator](https://www.adobe.com/ca/products/illustrator.html)** is proprietary and costly. **[Inkscape](https://inkscape.org/release/inkscape-1.2.2/)** is a free and open-source alternative SVG editor. Inkscape has a steep initial learning curve if you are not already familiar with an illustration software interface, but there's plenty of documentation online and it's a handy tool to know. **[GIMP](https://www.gimp.org/)** is a free and open-source image editor, akin to Adobe Photoshop. You can work with raster data in GIMP whereas it's more difficult to do so in Illustrator or Illustrator. However, if you're using a GIS like QGIS to edit and modify your data and simply using an illustration software for styling. 
+You can also use illustration software either to make an entire rudimentary map using SVG vector graphics, or to embellish an initial map produced with a GIS. **[Adobe Illustrator](https://www.adobe.com/ca/products/illustrator.html)** is a proprietary and costly option, though does have a free trial so long as you remember to cancell. **[Inkscape](https://inkscape.org/release/inkscape-1.2.2/)** is a free and open-source alternative SVG editor. Inkscape has a steep initial learning curve if you you are unfamiliar with an illustration software's interface, but there's plenty of documentation online and it is a handy tool to know. **[GIMP](https://www.gimp.org/)** is a free and open-source image editor, akin to Adobe Photoshop. You can work with raster data in GIMP whereas it's more difficult to do so in Inkscape or Illustrator. However, if you're using a GIS like QGIS to edit and modify your data, you can always use an illustration software for more advanced styling.  
 
-Below is an example map made by the workshop author, Lily Demet, for UBC Disaster Resilience Research Network Report. The data for this map was gathered, modified, and analyzed in a GIS and then exported into Inkscape, where all the stylistic work took place.
+Below is an example map made by the workshop author, Lily Demet, for UBC Disaster Resilience Research Network Report. The data for this map was gathered, modified, and analyzed in QGIS and then exported into Inkscape, where all the stylistic work took place.
 
 <img src="./reference/choropleth-example-lilydemet.png" style="width:100%;">
 
@@ -123,6 +125,6 @@ Below is an example map made by the workshop author, Lily Demet, for UBC Disaste
 - See more Cartographic Media from [CartoSquad](https://cartosquad.com/media.html)
 - [Cartographic Design](https://colorado.pressbooks.pub/makingmaps/chapter/cartographic-design-process/)
 - [Visual Hierarchy and Layout for maps](https://gistbok-topics.ucgis.org/CV-03-007)
-- [Color Brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) helps you create an appealing color scheme based on any number of classes.
-- [Build a colorblind friendly palette](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40) based on a color of your choice. 
+- [Color Brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) helps you create an appealing color scheme based on any number of classes
+- [Build a colorblind friendly palette](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40) based on a color of your choice
 
