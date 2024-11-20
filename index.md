@@ -3,7 +3,6 @@ layout: default
 title: Introduction
 nav_order: 1
 ---
-
 # Telling Spatial Stories with Data
     
 *How do I tell spatial stories with my data? What tools best suit my audience, skillset, resources, and timeframe?* This workshop will guide you through answering these questions. Rather than focusing on a single software or technical workflow, participants will be introduced to a variety of methods, tools, and platforms while learning to evaluate each for its applicability to the spatial story at hand. Think of this workshop as a wayfinding tutorial for navigating what questions to ask yourself at the beginning of a project comprising spatial data. By the end of this workshop series, participants will be able to:
