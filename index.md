@@ -12,12 +12,11 @@ nav_order: 1
 - Inventory and assemble the necessary resources to begin mapping.
 
 
-## When & Where
-This workshop will be launched across two afternoons of GIS week 2024: **Wednesday, November 20th & Thursday, November 21st, from 1 - 3pm PST**. During the first session, participants will be guided through key concepts of project design. You will also be introduced to a variety of mapping tools, and given the opportunity to evaluate which platforms and methods best suit your data, audience, and research objectives. In the second session, you will put into practice the skills learned on day one. Additionally, **participants are encouraged to bring their own projects/datasets to work through in applied learning.** 
+ During the first session, participants will be guided through key concepts of project design. You will also be introduced to a variety of mapping tools, and given the opportunity to evaluate which platforms and methods best suit your data, audience, and research objectives. In the second session, you will put into practice the skills learned on day one. Additionally, **participants are encouraged to bring their own projects/datasets to work through in applied learning.** 
 
 
 ## Prerequisites
-1. Attendance to Session 1 is prerequisite for attendance to Session 2. Register for [Session 1 here](https://libcal.library.ubc.ca/event/3845835) and [Session 2 here](https://libcal.library.ubc.ca/event/3845836).
+1. Attendance to Session 1 is prerequisite for attendance to Session 2. Register for both sessions from the [Research Commons' events calendar](https://researchcommons.library.ubc.ca/workshops/).
 
 2. If you are attending this workshop with a project of your own in mind, please download and fill out, to the best of your ability, the below worksheet. This is for your own benefit, and will not be collected or assessed by facilitators. You will also have a chance to fill it out during Session 1, though it may be helpful to review it beforehand.  
 [Microsoft .docx version](./content/project-design-worksheet.docx) | 
