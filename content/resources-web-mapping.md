@@ -41,6 +41,8 @@ The below map was created in 5 minutes using data downloaded from Vancouver [ope
 ## Leaflet
 [Leaflet](https://leafletjs.com/) consists of JavaScript and CSS code libraries which power the ways your web browser interprets and interacts with geospatial data & displays colors and style. For instance, when you double click a map to zoom in, Leaflet is at work. When you add data to your map, Leaflet assigns it a default color. Leaflet is made up of only 38kb of Javascript, so it is really fast and lightweight - meaning browsers don’t have to work very hard to load it. 
 
+You can download some [boilerplate code](./leaflet-boilerplate.zip) here and play around with it in a code editor. 
+
 
 > #### Leaflet Advantages  ⇡
 > {: .no_toc}
@@ -136,6 +138,8 @@ If you're familiar with QGIS, there's actually a nifty plugin for turning your Q
   <iframe src="./reference/qgis2web/index.html" style="width:100%; height:600px;"></iframe>
 
 <!-- [interactive filters](https://digital-geography.com/qgis2web-with-interactive-filters/) -->
+
+See the Research Common's [workshop on QGIS Plugins](https://ubc-library-rc.github.io/gis-plugins-qgis/) for a guided tutorial on how to not only make a webmap using qgis2web, but host it online. 
 
 ----
 ## ArcGIS Online
