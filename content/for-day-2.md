@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Preparing for Day 2
-nav_order: 5
+# layout: default
+# title: Preparing for Day 2
+# nav_order: 5
 ---
 
 # Preparing for Day 2
