@@ -8,9 +8,9 @@ nav_order: 2
 # Project Design 
 {: .no_toc}
 
-The purpose of this workshop is to guide you through exploring the spatial aspect of your data so as to tell a story. Depending on your data and overarching project, right now you may have a varying degree of certainty around what story you want to tell and how you will go about composing it. Therefore, we let's start by asking some questions to articulate the objectives, constraints, and resources you are working with. This, in turn, will help you decide on an output format and the best tools to make it happen. 
+The purpose of this workshop is to guide you through exploring the spatial aspect of your data so as to tell a story. Depending on your data and overarching project, right now you may have a varying degree of certainty around what story you want to tell and how you will go about composing it. Therefore, let's start by asking some questions to articulate help articulate your **objectives**, **constraints**, and **resources**. This, in turn, will help you decide on an **output format** and choose the right tools to make it happen. 
 
-As you reflect on the following questions, it can be helpful to write down your answers to refer to later. If this sounds useful useful for you, a Project Design Worksheet can be downloaded here:
+As you reflect on the following questions, it can be helpful to write down your answers to refer to later. If this sounds useful, a Project Design Worksheet can be downloaded here:
 [Microsoft .docx version](./project-design-worksheet.docx) |  [Text file version](./project-design-worksheet.rtf)
 
 
@@ -28,16 +28,16 @@ As you reflect on the following questions, it can be helpful to write down your 
 ----
 
 ## 1. Articulating Objectives
-The first question to ask yourself is: *What are my overarching project objectives?* If your spatial story is just one aspect of a larger project, how will your spatial story contribute to the project as a whole? 
+The first question to ask yourself is: **What are my overarching project objectives?** If your spatial story is just one aspect of a larger project, how will your spatial story contribute to the project as a whole? 
 
   > - What are you trying to show spatially? For example, change over time? A voyage, itinerary, or historical timeline? The geographic location of a city, country, or research area? The density or dispersal of an attribute across different locales? 
 
 
 
 ## 2. Identifying Constraints 
-Constraints, such as those around time and resources, limit what you can do. However, identifying your constraints _before_ beginning a project  enables you to explore within reason, taking on only as much as you can handle. Below are some questions to get you thinking about what constraints you may working within. Feel welcome to jot down those specific to your project in your worksheet. 
+Constraints, such as those around time and resources, limit what you can do. However, identifying your constraints _before_ beginning a project  enables you to explore within reason, taking on only as much as you can handle. Below are some questions to help you consider your constraints. Feel welcome to jot down those specific to your project in the worksheet provided. 
 
-  > - What is your timeframe? Is there an expected timeline for your progress, e.g., specific deadlines for various stages of your project output? To whom are you accountable?
+  > - What is your timeframe? Is there an expected timeline for your progress, e.g., specific deadlines for various stages of your project output? To whom do you report?
 
   > - Are you working alone or within a team? If working with others, it can be helpful to identify who is responsible for what, how material will be shared, and at what stages feedback will be given and incorporated. 
 
@@ -82,5 +82,9 @@ After you have a sense of your objectives, constraints, and intended output form
 
 ----
 #### Resources for Project Design
-{: .no_toc}
-Finally, it is useful to make a list of resources that can support you along your journey. This could be tutorials, colleagues, supervisors, or consultants. UBC Library Research Commons offers 1:1 and group consultations for GIS related questions, as well as questions regarding Data Analysis, Digital Scholarship, and Citation Management: [Book a consult here](https://libcal.library.ubc.ca/appointments/research_commons). There are also numerous workshops from all of these clusters you can work through asynchronously: [see workshop archive here](https://ubc-library-rc.github.io/). Keep in mind consultations offered through the Research Commons are aimed at assisting you as you work through your project rather than creating a methodology *for* you. 
+
+Finally, it is useful to make a list of resources that can support you along your journey. This could be tutorials, colleagues, supervisors, or consultants. 
+    
+UBC's Koerner Library Research Commons offers 1:1 and group consultations for GIS related questions, as well as questions regarding Data Analysis, Digital Scholarship, and Citation Management: [Book a consult here](https://libcal.library.ubc.ca/appointments/research_commons). Keep in mind consultations offered through the Research Commons are aimed at assisting you as you work through your project rather than creating a methodology *for* you.
+
+There are also numerous workshops from all of these clusters you can work through asynchronously. [See the workshop archive here](https://ubc-library-rc.github.io/).  
