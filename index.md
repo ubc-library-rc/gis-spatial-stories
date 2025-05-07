@@ -14,17 +14,17 @@ nav_order: 1
  <!-- During the workshop, participants will be guided through key concepts of project design. You will also be introduced to a variety of mapping tools, and given the opportunity to evaluate which platforms and methods best suit your data, audience, and research objectives.  -->
  
 
- ## Audience
+## Audience
 *Unsure if this workshop is for you?* This workshop is intended for anyone interested in telling a spatial story with their data or visualizing the geographic context of their research area. **Geospatial novices are welcome!**
 
- ## Before the workshop... 
+## Before the workshop... 
  If you are attending this workshop with a project of your own in mind, please download and fill out, to the best of your ability, the below worksheet. This is for your own benefit, and will not be collected or assessed by facilitators. You will also have a chance to fill it out during the workshop, though it may be helpful to review it beforehand.  
 [Microsoft .docx version](./content/project-design-worksheet.docx) | 
 [Text file version](./content/project-design-worksheet.rtf)
 
 
 
- ## Workshoping beyond the workshop: putting skills to practice  
+## Workshoping beyond the workshop: putting skills to practice  
  At the end of each month, the Research Commons hosts drop-in Spatial Storytelling Workshops. You are invited to bring your projects in progress to workshop collectively. These sessions are an opportunity to put into practice the skills learned here today. 
 
  Register for both this workshop as well as drop-in sessions on the [Research Commons' events calendar](https://researchcommons.library.ubc.ca/workshops/).
