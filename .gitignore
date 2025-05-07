@@ -1,0 +1,5 @@
+_site
+.vscode
+.jekyll-cache
+.DS_Store
+content/reference/.DS_Store
