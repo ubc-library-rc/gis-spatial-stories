@@ -34,7 +34,11 @@ While the Google Maps Platform offers a panoply of mapping tools including [dyna
 
 The below map was created in 5 minutes using data downloaded from Vancouver [open data portal](https://opendata.vancouver.ca/explore/dataset/parks-polygon-representation/information/). 
 
-<iframe src="https://umap.openstreetmap.fr/en/map/map-of-vancouver-public-parks_1137797#12/49.2492/-123.1389" style="width:100%; height:500px"></iframe>
+
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/vancouver-parks_1219886?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#12/49.2605/-123.0997"></iframe><p><a href="//umap.openstreetmap.fr/en/map/vancouver-parks_1219886?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#12/49.2605/-123.0997">See full screen</a></p>
+
+<!-- 
+<iframe src="http://u.osmfr.org/m/1219886/" style="width:100%; height:500px"></iframe> -->
 
 ----
 
