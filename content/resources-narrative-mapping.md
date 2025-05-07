@@ -58,6 +58,7 @@ Google Earth Tour Builder
 > - Produces aesthetic out-of-the box visuals
 > - Can contain multimedia, including images, audio, and static maps as well as dynamic maps made with ArcGIS Online
 > - See Esri's [Introduction to ArcGIS Storymaps](https://doc.arcgis.com/en/arcgis-storymaps/get-started/what-is-arcgis-storymaps.htm) to get started.
+> - The Research Commons also offers a workshop on [StoryMaps and ArcGIS Online](https://ubc-library-rc.github.io/gis-storymaps/). 
 
 
 > #### Storymaps Disadvantages ⇣
