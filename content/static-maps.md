@@ -8,7 +8,7 @@ parent: Determining Output
 # Static Maps
 {: .no_toc}
 
-There a variety of spatial stories you can tell with a static map. Static maps can be as simple as to provide geographic reference for your story,  or they can be so elaborate as to visualize the results of spatial analysis. This page describes both **reference** and **thematic** static maps, and provides illustrative examples for each. 
+There are a variety of spatial stories you can tell with a static map. Static maps can provide geographic reference for your story, such as locating your research area or the countries visited by a historical figure. Static maps can show geophysical features such as mountains, rivers, or coastline, or show infrastructural networks, buildings, and aerial imagery. Static maps can also visualize the results of spatial analysis. This page describes two kinds of static maps: **reference maps** and **thematic maps**, and provides illustrative examples for each. 
 
 <details open markdown="block">
   <summary>
@@ -24,10 +24,10 @@ There a variety of spatial stories you can tell with a static map. Static maps c
 ## Reference Maps
 Reference maps are useful to show the lay of the land, such as the geographic context surrounding your research area or area of interest. 
 
-Reference maps can be as simple as a drop pin location, with an optional inset. Insets either zoom-in on a select area in order to show it in greater detail, or they zoom-out to put a select area in wider context.
+Reference maps can be as simple as a drop pin location, with an optional inset. Insets either zoom-in on a select area in order to show it in greater detail, or they zoom-out to put a select area into wider geographical context.
 <img src="./reference/jr-park.jpeg" style="width:100%;">
 
-Reference maps can also display a single data layer, such as Vancouver Parks.
+Reference maps can display a single data layer, such as Vancouver Parks.
 <img src="./reference/reference-example.jpeg" style="width:100%">
 
 Or, reference maps can simply show the geography or infrastructure in a specific area.
@@ -51,9 +51,9 @@ Writes _Statistics Canada_: "A thematic map shows the spatial distribution of on
 
  >>  **Spatial analysis** is the process of manipulating spatial information to extract new information and meaning from the original data. Usually spatial analysis is carried out with a Geographic Information System (GIS). A GIS usually provides spatial analysis tools for calculating feature statistics and carrying out geoprocessing activities as data interpolation. -- [QGIS](https://docs.qgis.org/2.18/en/docs/gentle_gis_introduction/spatial_analysis_interpolation.html#:~:text=Overview,Geographic%20Information%20System%20(GIS).)
  
-  If you have spatial questions you want to explore with your data, you'll likely need to perform some kind of spatial analysis within a GIS. There are a couple GIS applications out there that can be downloaded from the web directly to your personal computer; these will be further described in **Assembling Resources**. Remember, you can alway email `library.gis@ubc.ca` or [book a consult](https://libcal.library.ubc.ca/appointments/research_commons#s-lc-public-pt) with the Research Commons' GIS Team if you are not sure what your project will require. 
+  If you have spatial questions you want to explore with your data, you'll likely need to perform some kind of spatial analysis within a GIS. There are a couple GIS applications out there that can be downloaded from the web directly to your personal computer; these will be further described in **Assembling Resources**. Remember, you can alway email `library.gis@ubc.ca` or [book a consult](https://libcal.library.ubc.ca/appointments/research_commons#s-lc-public-pt) with the Research Commons' GIS Team if you are not sure what tools/software your project will require. 
 
-  Let's take a look at some examples of different kinds of thematic maps. You can read more about the pros and cons of different kinds of thematic maps [here](https://mapscaping.com/what-is-a-thematic-map/). 
+  OK. Let's take a look at some examples of thematic maps. You can read more about the pros and cons of different kinds of thematic maps [here](https://mapscaping.com/what-is-a-thematic-map/). 
 
     
 
@@ -65,7 +65,7 @@ Writes _Statistics Canada_: "A thematic map shows the spatial distribution of on
 
 
 
-If you have a substantial amount of time, you can create elaborate, aesthetic maps using both a GIS and illustration software. The following map was made by the workshop author, Lily Demet, for UBC Disaster Resilience Research Network Report. 
+If you have a substantial amount of time, you can create elaborate, aesthetic maps using both a GIS and illustration software. The following map was made by the workshop author, Lily Demet, for the UBC Disaster Resilience Research Network Report. 
 <img src="./reference/choropleth-example-lilydemet.png" style="width:100%">
 
 <br>
