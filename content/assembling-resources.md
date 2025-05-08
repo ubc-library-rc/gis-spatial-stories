@@ -15,13 +15,13 @@ Once you've articulated your objectives and constraints, and have decided on an 
 > - Will you need to update and maintain this work over a long period of time or is it a one-off project? Will people other than yourself need access to edit and modify it? 
 
 
-The following group of pages will guide you through assembling your data and technical resources, as well as provide documentation for troubleshooting along the way. An elaboration on various tools/platforms is broken down by those related to **Static Maps & Spatial Analysis**, those relevant to **Web Mapping**, those for building **Narrative spatial stories**, and those for **Georeferencing**. However, many tools/platforms relate to more than one kind of endeavor, and some endeavors will require more than one tool/platform. While designing a workflow for getting your story made is outside the scope of this workshop, bring your projects tomorrow to Session 2, and we will do our best to help get you started. 
+The following group of pages will guide you through assembling your data and technical resources, as well as provide documentation for troubleshooting along the way. An elaboration on various software/tools/platforms is broken down by those related to **Static Maps & Spatial Analysis**, those relevant to **Web Mapping**, those for building **Narrative spatial stories**, and those for **Georeferencing**. However, many software/tools/platforms relate to more than one kind of endeavor, and some endeavors will require more than one software/tool/platform. 
 
 
 
-### UBC Resources for Spatial Story Design
+## UBC Resources for Spatial Story Design
 {: .no_toc}
 Finally, it is useful to make a list of resources that can support you along your journey. This could be tutorials, colleagues, supervisors, or consultants. UBC Library Research Commons offers 1:1 and group consultations for GIS related questions, as well as questions regarding Data Analysis, Digital Scholarship, Citation Management: [Book a consult here](https://libcal.library.ubc.ca/appointments/research_commons). There are also numerous workshops from all of these clusters you can work through asynchronously: [see workshop archive here](https://ubc-library-rc.github.io/). Keep in mind consultations offered through the Research Commons are aimed at assisting you as you work through your project rather than creating a methodology for you. 
 
-
+Additionally, At the end of each month, UBC's Koerner Library Research Commons hosts drop-in Spatial Storytelling sessions. You are invited to bring your projects in progress to workshop collectively. These sessions are an opportunity to put into practice the skills learned here today. Register for both this workshop as well as drop-in sessions on the [Research Commons' events calendar](https://researchcommons.library.ubc.ca/workshops/).
 
