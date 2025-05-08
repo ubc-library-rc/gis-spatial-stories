@@ -8,9 +8,9 @@ nav_order: 2
 # Project Design 
 {: .no_toc}
 
-The purpose of this workshop is to guide you through exploring the spatial aspect of your data so as to tell a story. Depending on your data and overarching project, right now you may have a varying degree of certainty around what story you want to tell and how you will go about composing it. Therefore, let's start by asking some questions to articulate help articulate your **objectives**, **constraints**, and **resources**. This, in turn, will help you decide on an **output format** and choose the right tools to make it happen. 
+The purpose of this workshop is to guide you through exploring the spatial aspect of your data so as to tell a story. Depending on your data and progression in overarching project, you may have a varying degree of certainty around what story you want to tell and how you'll go about telling it. Therefore, let's start by asking some basic questions to articulate your **objectives**, **constraints**, and **resources**. This, in turn, will help you decide on an **output format** and tools to make it happen. 
 
-As you reflect on the following questions, it can be helpful to write down your answers to refer to later. If this sounds useful, a Project Design Worksheet can be downloaded here:
+As you reflect on the following questions, it can be useful to write down your answers to refer to later. A Project Design Worksheet can be downloaded here:
 [Microsoft .docx version](./project-design-worksheet.docx) |  [Text file version](./project-design-worksheet.rtf)
 
 
