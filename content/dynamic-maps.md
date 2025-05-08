@@ -21,24 +21,23 @@ Dynamic maps are interactive, allowing the user to reveal more information by zo
 ----
 
 ## Web Maps 
-Web maps (or webmaps) are a means of visualizing and interacting with geographic data. Following the definition above, a web map is a type of digital map since it is derived from a computer. However, there are some important differences:
+Web maps (aka webmaps) enable interactive visualization of geographic data. Following the definition above, a web map is a type of digital map since it is derived from a computer. However, there are some important differences:
 - **Dynamic scales and content** Web maps are not static images. Different scales display varying levels of detail. For instance, zooming in may reveal information that wasn't apparent before. For this reason, web maps are not designed for print.
 - **Interactive** Web maps are built to be interacted with by an end user, often in order for the user to explore a dataset and learn something. Take for example Climate Central's [Surging Seas Risk Zone Map](https://ss2.climatecentral.org/#12/40.7298/-74.0070?show=satellite&projections=0-K14_RCP85-SLR&level=5&unit=feet&pois=hide). Or, listen to the radio anywhere in the world with [radio.garden](http://radio.garden/visit/vancouver/Lc5d7EdP)
 - **Display real-time data updates** Web maps are useful for geovisualizing real-time data like weather. Watch [the wind blow across the country.](https://www.ventusky.com/?p=43.8;-97.3;5&l=temperature-2m)
 - **Often rely on web and mobile technology** Web maps are ubiquitous - we see and use them all the time. For example, [Google Maps](https://www.google.ca/maps). For small businesses, web maps are helpful for [finding directions](https://luppolobrewing.ca/contact/). For app builders, web maps might provide a [method for routing to locations](https://www.pogomap.info/) using a mobile device's geolocation features. For researchers, they may help [communicate important information](https://www.uvic.ca/research/centres/cisur/projects/map/index.php) in an area of study. For journalists, they may give spatial context to a story like [where Amazon locates its warehouses and why](https://storymaps.arcgis.com/stories/adc5ff253a3643f88d39e7f3ef1a09ee).
 
 
-The **Assembling Resources** section of this workshop will explain the various platforms in greater detail, including the advantages and disadvantages of each. For now, you'll be introduced to some examples so you can get a feel for what might work for you. You can create the same kinds of reference and thematic maps introduced in the Static Map section with web mapping. 
+The **Assembling Resources** section of this workshop will explain various webmapping platforms in greater detail, including the advantages and disadvantages of each. For now, you'll be introduced to some examples so you can get a feel for what might work for you. Note: you can reproduce many of the static maps introduced earlier with webmapping.
 
 ----
 
 
 ### Reference Webmaps
-The most basic reference webmap is simply a basemap, contained in a viewbox with controls and an attribution at the bottom. 
+The most basic reference webmap is simply a basemap, contained in a viewbox with controls and an attribution at the bottom. Much like their static counterparts, reference webmaps can be as simple as a basemap with a drop-pin locator or a single data layer. Explore the interactive capabilities of each of the following examples. 
 
 <iframe src="./reference/jawg-map.html" style="width:90%; height:450px; border:none;"> </iframe>
 
-Much like their static counterparts, reference webmaps can be as simple as a basemap with a drop-pin locator or a single data layer. Explore the interactive capabilities of each of the following examples. 
 
 <iframe src="./reference/leaflet-reference-map.html" style="width:90%; height:450px; border:none;"> </iframe>
 
@@ -59,7 +58,7 @@ Some popular reference webmaps out there:
 
 
 ### Thematic Webmaps 
-Thematic maps visualize the results of some spatial analysis. With a bit of code, you can create thematic webmaps. 
+Thematic web maps visualize the results of some spatial analysis. With a bit of code, you can create choropleth, cluster, and proportional symbol web maps. 
 
 <!-- While you can do this spatial analysis in QGIS and then export your data or map... You can also use Leaflet or Mapbox to power the spatial analysis for you through functions. Like cluster, heatmap, etc.  -->
 
