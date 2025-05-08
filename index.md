@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # Telling Spatial Stories with Data
     
-*How do I tell spatial stories with my data? What tools best suit my audience, skillset, resources, and timeframe?* This workshop will guide you through answering these questions. Rather than focusing on a single software or technical workflow, participants will be introduced to a variety of methods, tools, and platforms while learning to evaluate each for its applicability to the spatial story at hand. Think of this workshop as a wayfinding tutorial for navigating what questions to ask yourself at the beginning of a project comprising spatial data. **Participants are encouraged to bring their own projects/datasets to work through in applied learning.** By the end of this workshop series, participants will be able to:
+*How do I tell spatial stories with my data? What tools best suit my audience, skillset, resources, and timeframe?* This workshop will guide you through answering these questions. Rather than focusing on a single software or technical workflow, participants will be introduced to a variety of methods, tools, and platforms while learning to evaluate each for its applicability to the spatial story at hand. Think of this workshop as a wayfinding tutorial for navigating what questions to ask yourself at the beginning of a project comprising spatial data. **Participants are encouraged to bring their own projects/datasets to work through in applied learning.** By the end of this workshop, participants will be able to:
 
 - Design a project to tell a spatial story;
 - Identify suitable tools to visualize a given dataset in support of a research topic; and
@@ -18,17 +18,16 @@ nav_order: 1
 *Unsure if this workshop is for you?* This workshop is intended for anyone interested in telling a spatial story with their data or visualizing the geographic context of their research area. **Geospatial novices are welcome!**
 
 ## Before the workshop... 
- If you are attending this workshop with a project of your own in mind, please download and fill out, to the best of your ability, the below worksheet. This is for your own benefit, and will not be collected or assessed by facilitators. You will also have a chance to fill it out during the workshop, though it may be helpful to review it beforehand.  
+ If you are attending this workshop with a project of your own in mind, please download and fill out, to the best of your ability, the worksheet below. This is for your own benefit, and will not be collected or assessed by the facilitators. You will also have a chance to think through these questions during the workshop, though it may be helpful to review them beforehand.  
 [Microsoft .docx version](./content/project-design-worksheet.docx) | 
 [Text file version](./content/project-design-worksheet.rtf)
 
 
 
-## Workshoping beyond the workshop: putting skills to practice  
- At the end of each month, the Research Commons hosts drop-in Spatial Storytelling Workshops. You are invited to bring your projects in progress to workshop collectively. These sessions are an opportunity to put into practice the skills learned here today. 
+## Workshopping beyond the workshop: putting skills to practice  
+ At the end of each month, UBC's Koerner Library Research Commons hosts drop-in Spatial Storytelling sessions. You are invited to bring your projects in progress to workshop collectively. These sessions are an opportunity to put into practice the skills learned here today. Register for both this workshop as well as drop-in sessions on the [Research Commons' events calendar](https://researchcommons.library.ubc.ca/workshops/).
 
- Register for both this workshop as well as drop-in sessions on the [Research Commons' events calendar](https://researchcommons.library.ubc.ca/workshops/).
-
+Additionally, the Research Commons offers 1:1 and group consultations for GIS related questions, as well as questions regarding Data Analysis, Digital Scholarship, and Citation Management. [Book a consult here](https://libcal.library.ubc.ca/appointments/research_commons). Keep in mind consultations offered through the Research Commons are aimed at assisting you as you work through your project rather than creating a methodology *for* you.
 
       
 
@@ -47,3 +46,12 @@ nav_order: 1
 
 <p style="margin-top:90px"></p>
 <p style="color:grey; font-size:12px">This workshop was authored by Lily Demet and reviewed by Alex Alisauskas.</p>
+
+
+
+
+<!-- # Preparing for Day 2
+
+In the second session, you will put into practice the skills learned on today by working through a project of your own, or thinking through the project of another participant. You are encouraged to bring your own ideas, datasets, and projects in any stage. 
+
+To prepare, make your way through the Project Design worksheet and answer the questions as best you can. Try out some of the different tools introduced today. Even if you don't intend to use every tool, it can be fun to simply explore their capacities.  -->
