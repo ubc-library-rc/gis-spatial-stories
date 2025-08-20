@@ -44,10 +44,11 @@ Additionally, the Research Commons offers 1:1 and group consultations for GIS re
 - Schedule a 1:1 consult with the geospatial team [here](https://libcal.library.ubc.ca/appointments/research_commons#s-lc-public-pt)
 
 
+This workshop is eligible to count towards the Canadian Certificate for Digital Humanities (cc:DH/HN). If you’re interested in learning more about the certificate, visit [https://ccdhhn.ca/](https://ccdhhn.ca/).
+Cet atelier est admissible au Certificat Canadien en Humanités Numériques (cc:DH/HN). Si vous souhaitez en savoir plus sur le certificat, visitez [https://ccdhhn.ca/fr/](https://ccdhhn.ca/fr/).
+
 <p style="margin-top:90px"></p>
 <p style="color:grey; font-size:12px">This workshop was authored by Lily Demet and reviewed by Alex Alisauskas.</p>
-
-
 
 
 <!-- # Preparing for Day 2
