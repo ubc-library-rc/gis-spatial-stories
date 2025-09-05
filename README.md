@@ -6,7 +6,9 @@ Link to workshop: [https://ubc-library-rc.github.io/gis-spatial-stories/](https:
 
 # Spatial Stories
     
-Description: *How do I tell spatial stories with my data? What tools and mediums best suit my audience, skillset, resources, and timeframe?*  During the workshop, participants will be guided through key concepts of project design. Participants will also be introduced to a variety of mapping tools, and given the opportunity to evaluate which platforms and methods best suit your data, audience, and research objectives.
+Description: This workshop introduces a variety of mapping tools and processes for novices wanting to get started with creating maps and spatial visualizations.
+
+*How do I tell spatial stories with my data? What tools and mediums best suit my audience, skillset, resources, and timeframe?*  During the workshop, participants will be guided through key concepts of project design. Participants will also be introduced to a variety of mapping tools, and given the opportunity to evaluate which platforms and methods best suit your data, audience, and research objectives.
 
 *Unsure if this workshop is for you?* This workshop is intended for anyone interested in telling a spatial story with their data or visualizing the geographic context of their research area. Geospatial novices are welcome!
 
