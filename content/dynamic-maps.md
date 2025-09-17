@@ -41,8 +41,9 @@ The most basic reference webmap is simply a basemap, contained in a viewbox with
 
 <iframe src="./reference/leaflet-reference-map.html" style="width:90%; height:450px; border:none;"> </iframe>
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1aslINORADirq1Cx5_mRG4s2EO2OfxF4&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
+<!-- <iframe src="https://www.google.com/maps/d/u/0/edit?mid=13jisTC20ztRT93EJS0u_6u4_lzvEehk&usp=sharing" width="640" height="480"></iframe> -->
 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=13jisTC20ztRT93EJS0u_6u4_lzvEehk&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 Some popular reference webmaps out there:
 <iframe src="https://native-land.ca/" width="640" height="640"></iframe>
