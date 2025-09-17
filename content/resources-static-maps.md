@@ -47,6 +47,8 @@ The best way to learn QGIS is through the experience that comes with hands-on pr
 #### QGIS Resources 
 {: .no_toc}
 - UBC Research Commons has two workshops to get you started: [Intro to Map Production with QGIS](https://ubc-library-rc.github.io/gis-intro-qgis/) and [Tools and Workflows in QGIS](https://ubc-library-rc.github.io/gis-tools-workflows/). 
+- We are currently finalizing the development of a workshop on Reference Mapping for Academic Publication using QGIS, which will debut on Wednesday, November 19th. [Sign up for the workshop here!!!](https://libcal.library.ubc.ca/event/3942717).
+
 - QGIS itself has extensive online documentation, including a robust [User Guide](https://docs.qgis.org/3.34/en/docs/user_manual/index.html#) *and* [Training Manual](https://docs.qgis.org/3.34/en/docs/training_manual/index.html). QGIS also has a vibrant user community, with answers to nearly any question you might have only a web search away. Many helpful tutorial demonstrations can be found on Youtube. [CWU Geography](https://www.youtube.com/@cwugeography3290) offers especially clear and helpful content. 
 <!-- - [making a heatmap in QGIS](https://www.qgistutorials.com/en/docs/3/creating_heatmaps.html) -->
     
