@@ -1,0 +1,70 @@
+* {box-sizing: border-box}
+.mySlides {display: none}
+img {vertical-align: middle;}
+.slideshow-container {
+max-width: 1000px;
+position: relative;
+margin: auto;
+}
+.prev1, .next1 {
+cursor: pointer;
+position: absolute;
+top: 50%;
+width: auto;
+padding: 16px;
+margin-top: -22px;
+color: black;
+background-color: rgba(255, 255, 255, 0.51);
+font-weight: bold;
+font-size: 18px;
+transition: 0.6s ease;
+border-radius: 0 3px 3px 0;
+user-select: none;
+}
+.next1 {
+right: 0;
+border-radius: 3px 0 0 3px;
+}
+.prev1:hover, .next1:hover {
+background-color: rgba(142, 122, 163, 0.5);
+}
+.text {
+color: #f2f2f2;
+font-size: 15px;
+padding: 8px 12px;
+position: absolute;
+bottom: 8px;
+width: 100%;
+text-align: center;
+}
+.numbertext {
+color: #211c1cff;
+font-size: 12px;
+padding: 8px 12px;
+position: absolute;
+top: 0;
+}
+.dot {
+cursor: pointer;
+height: 10px;
+width: 10px;
+margin: 0 2px;
+background-color: #bbb;
+border-radius: 5%;
+display: inline-block;
+transition: background-color 0.6s ease;
+}
+.dot:active {
+background-color: #717171;
+}
+.fade {
+animation-name: fade;
+animation-duration: 1.5s;
+}
+@keyframes fade {
+from {opacity: .4}
+to {opacity: 1}
+}
+@media only screen and (max-width: 300px) {
+.prev1, .next1,.text {font-size: 11px}
+}
