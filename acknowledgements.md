@@ -6,7 +6,7 @@ nav_order: 20
 
 ## Acknowledgements
 
-The workshop content is authored by Lily Demet and reviewed by Alex Alisauskas.     
+This workshop was authored by <a href="https://geog.ubc.ca/profile/lily-crandall-oral/" target="_blank">Lily Demet</a> and reviewed by Alex Alisauskas.  
 
 
 ### Site Template
