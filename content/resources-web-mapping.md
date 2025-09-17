@@ -8,6 +8,8 @@ parent: Assembling Resources
 {: .no_toc}
 This page inventories and evaluates a variety of platforms, tools, and resources for web mapping. 
 
+See our newly redeveloped [Webmapping Workshop](https://ubc-library-rc.github.io/gis-intro-leaflet/content/webmapping-tools.html) for further documentation on many of the following platforms. 
+
 <details open markdown="block">
   <summary>
     On this page:
@@ -28,18 +30,21 @@ We recommend Google Maps for its Google MyMaps service *only*. With Google MyMap
 
 While the Google Maps Platform offers a panoply of mapping tools including [dynamic maps](https://mapsplatform.google.com/maps-products/dynamic-maps/), you must be very careful about surreptitious charges. For example, while the [embed maps API](https://developers.google.com/maps/documentation/embed/get-started?hl=en) is free with unlimited usage, you must sign up for Google Cloud. Google Cloud is only free for 90 days then will charge you $200 monthly. In our opinion, it is recommended to invest your time and energy in learning a free and open-source option like uMap or Leaflet. 
 
+See our [Google MyMaps demo] (https://ubc-library-rc.github.io/gis-intro-leaflet/content/mymaps.html) in our webmapping workshop. 
+
 ----
 
 ## uMap
 [uMap](https://umap.openstreetmap.fr/en/) is a free and open-source platform that allows you to create webmaps using OpenStreetMap (OSM) data. You can then embed these maps into a website, or simply share the link with collaborators and audiences. You can choose from a variety of basemaps, and even upload and add data layers of your own! uMap is very easy to use, but has little room for customization. It is an entirely web-based interface and requires no prior expertise. 
 
-The below map was created in 5 minutes using data downloaded from Vancouver [open data portal](https://opendata.vancouver.ca/explore/dataset/parks-polygon-representation/information/). 
+The below map was created in 5 minutes using data downloaded from Vancouver [open data portal](https://opendata.vancouver.ca/explore/dataset/parks-polygon-representation/information/). See our [uMap demo] (https://ubc-library-rc.github.io/gis-intro-leaflet/content/umap.html) in our webmapping workshop. 
 
 
 <iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/vancouver-parks_1219886?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#12/49.2605/-123.0997"></iframe><p><a href="//umap.openstreetmap.fr/en/map/vancouver-parks_1219886?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true#12/49.2605/-123.0997">See full screen</a></p>
 
 <!-- 
 <iframe src="http://u.osmfr.org/m/1219886/" style="width:100%; height:500px"></iframe> -->
+
 
 ----
 
@@ -65,7 +70,8 @@ You can download some [boilerplate code](./leaflet-boilerplate.zip) here and pla
 
 #### Resources for working with Leaflet
 {: .no_toc}
-- UBC Research Commons' [Introduction to Leaflet](https://ubc-library-rc.github.io/gis-intro-leaflet/)
+- UBC Research Commons' NEWLY REVISED [webmapping workshop](https://ubc-library-rc.github.io/gis-intro-leaflet/)!!!
+
 - [Leaflet Tutorials](https://leafletjs.com/examples.html) for getting started
 - [Plugins](https://leafletjs.com/plugins.html) offer extended functionality, making leaflet hugely customizable. Below are some plugins to give you some idea of the variety of added functionality that comes from the community of developers. 
 - [Heatmaps with Leaflet](https://leafletjs.com/plugins.html#heatmaps)
