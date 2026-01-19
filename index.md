@@ -47,6 +47,18 @@ Additionally, the Research Commons offers 1:1 and group consultations for GIS/ma
 - Schedule a 1:1 consult with the geospatial team [here](https://libcal.library.ubc.ca/appointments/research_commons#s-lc-public-pt)
 
 
+
+For more workshops on spatial tools, including geographic information systems (GIS) and mapping, please see the following:
+- [Intro to Mapmaking with QGIS](https://ubc-library-rc.github.io/gis-mapping-intro/)
+- [Reference mapping for Academic Publication](https://ubc-library-rc.github.io/gis-reference-mapping/)
+- [Making a choropleth map with QGIS](https://ubc-library-rc.github.io/gis-intro-qgis/)
+- [Tools and workflows in QGIS](https://ubc-library-rc.github.io/gis-tools-workflows/)
+- [Plugins with QGIS](https://ubc-library-rc.github.io/gis-plugins-qgis/)
+- [Georeferencing Historical Maps with QGIS](https://ubc-library-rc.github.io/gis-georeferencing/)
+- [Intro to Webmapping](https://ubc-library-rc.github.io/gis-intro-leaflet/)
+- [Storymaps with ArcGIS Online](https://github.com/ubc-library-rc/gis-storymaps)
+
+
 This workshop is eligible to count towards the Canadian Certificate for Digital Humanities (cc:DH/HN). If you’re interested in learning more about the certificate, visit [https://ccdhhn.ca/](https://ccdhhn.ca/).
 
 Cet atelier est admissible au Certificat Canadien en Humanités Numériques (cc:DH/HN). Si vous souhaitez en savoir plus sur le certificat, visitez [https://ccdhhn.ca/fr/](https://ccdhhn.ca/fr/).
